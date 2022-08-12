@@ -1,0 +1,1696 @@
+tournament_year;stage;player_1name;player_2name;player_1score;player_2score
+2022;FINAL;Smith M.;Wright P.;5.0;7.0
+2022;SEMI-FINALS;Wright P.;Anderson G.;6.0;4.0
+2022;SEMI-FINALS;Smith M.;Wade J.;6.0;3.0
+2022;QUARTER-FINALS;Price G.;Smith M.;4.0;5.0
+2022;QUARTER-FINALS;Wright P.;Rydz C.;5.0;4.0
+2022;QUARTER-FINALS;Humphries L.;Anderson G.;2.0;5.0
+2022;QUARTER-FINALS;Wade J.;King M.;5.0;0.0
+2022;1/8-FINALS;Wright P.;Searle R.;4.0;1.0
+2022;1/8-FINALS;Anderson G.;Cross R.;4.0;3.0
+2022;1/8-FINALS;Wade J.;Kleermaker M.;4.0;0.0
+2022;1/8-FINALS;Dobey C.;Humphries L.;3.0;4.0
+2022;1/8-FINALS;Soutar A.;Rydz C.;1.0;4.0
+2022;1/8-FINALS;Smith R.;King M.;3.0;4.0
+2022;1/8-FINALS;Clayton J.;Smith M.;3.0;4.0
+2022;1/8-FINALS;Price G.;van Duijvenbode D.;4.0;1.0
+2022;1/16-FINALS;Anderson G.;White I.;4.0;3.0
+2022;1/16-FINALS;Aspinall N.;Rydz C.;0.0;4.0
+2022;1/16-FINALS;Chisnall D.;Humphries L.;;
+2022;1/16-FINALS;de Sousa J.;Soutar A.;3.0;4.0
+2022;1/16-FINALS;van Gerwen M.;Dobey C.;;
+2022;1/16-FINALS;Wright P.;Heta D.;4.0;2.0
+2022;1/16-FINALS;Cross R.;Gurney D.;4.0;3.0
+2022;1/16-FINALS;Cullen J.;Kleermaker M.;3.0;4.0
+2022;1/16-FINALS;Searle R.;Noppert D.;4.0;2.0
+2022;1/16-FINALS;Lennon S.;King M.;0.0;4.0
+2022;1/16-FINALS;Clayton J.;Clemens G.;4.0;0.0
+2022;1/16-FINALS;Price G.;Huybrechts K.;4.0;3.0
+2022;1/16-FINALS;Wade J.;Van der Voort V.;;
+2022;1/16-FINALS;Hempel F.;Smith R.;1.0;4.0
+2022;1/16-FINALS;Smith M.;O'Connor W.;4.0;2.0
+2022;1/16-FINALS;Smith R.;van Duijvenbode D.;3.0;4.0
+2022;1/32-FINALS;Dobey C.;Rodriguez Ru. J.;3.0;2.0
+2022;1/32-FINALS;Cross R.;van Barneveld R.;3.0;1.0
+2022;1/32-FINALS;Clemens G.;Williams L.;3.0;0.0
+2022;1/32-FINALS;Noppert D.;Heaver J.;3.0;1.0
+2022;1/32-FINALS;de Sousa J.;Lowe J.;3.0;2.0
+2022;1/32-FINALS;Suljovic M.;Soutar A.;2.0;3.0
+2022;1/32-FINALS;Dolan B.;Rydz C.;0.0;3.0
+2022;1/32-FINALS;Heta D.;Woodhouse L.;3.0;1.0
+2022;1/32-FINALS;Whitlock S.;Kleermaker M.;1.0;3.0
+2022;1/32-FINALS;Huybrechts K.;Beaton S.;3.0;1.0
+2022;1/32-FINALS;van Duijvenbode D.;Koltsov B.;3.0;2.0
+2022;1/32-FINALS;Aspinall N.;Murnan J.;3.0;2.0
+2022;1/32-FINALS;Cullen J.;Williams J.;3.0;2.0
+2022;1/32-FINALS;Humphries L.;Rodriguez R.-J.;3.0;0.0
+2022;1/32-FINALS;Durrant G.;O'Connor W.;0.0;3.0
+2022;1/32-FINALS;Searle R.;Borland W.;3.0;0.0
+2022;1/32-FINALS;Petersen D.;Smith R.;0.0;3.0
+2022;1/32-FINALS;van den Bergh D.;Hempel F.;1.0;3.0
+2022;1/32-FINALS;Smith M.;Meulenkamp R.;3.0;0.0
+2022;1/32-FINALS;Van der Voort V.;Hunt A.;3.0;0.0
+2022;1/32-FINALS;Chisnall D.;de Decker M.;3.0;0.0
+2022;1/32-FINALS;King M.;Joyce R.;3.0;2.0
+2022;1/64-FINALS;Lowe J.;Larsson D.;3.0;0.0
+2022;1/64-FINALS;Williams L.;Shibata T.;3.0;0.0
+2022;1/32-FINALS;Wade J.;Kuivenhoven M.;3.0;1.0
+2022;1/64-FINALS;van Barneveld R.;Ilagan L.;3.0;0.0
+2022;1/64-FINALS;Rodriguez Ru. J.;Robb B.;3.0;1.0
+2022;1/64-FINALS;Woodhouse L.;Wilson J.;3.0;1.0
+2022;1/32-FINALS;Clayton J.;Barry K.;3.0;2.0
+2022;1/64-FINALS;Beaton S.;Sherrock F.;3.0;2.0
+2022;1/64-FINALS;Hempel F.;Schindler M.;3.0;0.0
+2022;1/64-FINALS;Kleermaker M.;Michael J.;3.0;1.0
+2022;1/32-FINALS;Bunting S.;Smith R.;2.0;3.0
+2022;1/64-FINALS;Soutar A.;Portela D.;3.0;2.0
+2022;1/64-FINALS;Heaver J.;Mathers G.;3.0;1.0
+2022;1/64-FINALS;Kuivenhoven M.;Smith K.;3.0;1.0
+2022;1/32-FINALS;van Gerwen M.;Barstow C.;3.0;1.0
+2022;1/64-FINALS;Rodriguez R.-J.;Kenny N.;3.0;0.0
+2022;1/64-FINALS;Evetts T.;Williams J.;1.0;3.0
+2022;1/64-FINALS;Hunt A.;Krcmar B.;3.0;0.0
+2022;1/32-FINALS;White I.;Landman C.;3.0;1.0
+2022;1/64-FINALS;Labanauskas D.;de Decker M.;1.0;3.0
+2022;1/64-FINALS;Rydz C.;Yamada Y.;3.0;0.0
+2022;1/64-FINALS;Hughes J.;Smith R.;1.0;3.0
+2022;1/32-FINALS;Wright P.;Meikle R.;3.0;0.0
+2022;1/64-FINALS;Smith R.;Smith J.;3.0;0.0
+2022;1/64-FINALS;Borland W.;Brooks B.;3.0;2.0
+2022;1/64-FINALS;Murnan J.;Lim P.;3.0;2.0
+2022;1/32-FINALS;Ratajski K.;Lennon S.;1.0;3.0
+2022;1/64-FINALS;Wattimena J.;Koltsov B.;0.0;3.0
+2022;1/64-FINALS;Barry K.;Lam R.;3.0;2.0
+2022;1/64-FINALS;Joyce R.;Benecky R.;3.0;2.0
+2022;1/32-FINALS;Anderson G.;Lewis A.;3.0;1.0
+2022;1/64-FINALS;Meulenkamp R.;Ashton L.;3.0;0.0
+2022;1/64-FINALS;Meikle R.;Schmutzler F.;3.0;0.0
+2022;1/64-FINALS;O'Connor W.;Lauby D. Jr.;3.0;2.0
+2022;1/32-FINALS;Gurney D.;Evans R.;3.0;1.0
+2022;1/64-FINALS;Barstow C.;Norman J.;3.0;1.0
+2022;1/64-FINALS;Mitchell S.;Landman C.;0.0;3.0
+2022;1/64-FINALS;Lennon S.;Razma M.;3.0;1.0
+2022;1/32-FINALS;Price G.;Edhouse R.;3.0;1.0
+2022;1/64-FINALS;Lewis A.;Campbell M.;3.0;1.0
+2022;1/64-FINALS;Evans R.;Kumar N.;3.0;0.0
+2022;1/64-FINALS;Edhouse R.;Hudson P.;3.0;2.0
+2021;FINAL;Anderson G.;Price G.;3.0;7.0
+2021;SEMI-FINALS;Chisnall D.;Anderson G.;3.0;6.0
+2021;SEMI-FINALS;Bunting S.;Price G.;4.0;6.0
+2021;QUARTER-FINALS;van Gerwen M.;Chisnall D.;0.0;5.0
+2021;QUARTER-FINALS;Price G.;Gurney D.;5.0;4.0
+2021;QUARTER-FINALS;Anderson G.;van Duijvenbode D.;5.0;1.0
+2021;QUARTER-FINALS;Ratajski K.;Bunting S.;3.0;5.0
+2021;1/8-FINALS;Chisnall D.;van den Bergh D.;4.0;2.0
+2021;1/8-FINALS;Price G.;King M.;4.0;1.0
+2021;1/8-FINALS;van Duijvenbode D.;Durrant G.;4.0;3.0
+2021;1/8-FINALS;Petersen D.;Anderson G.;0.0;4.0
+2021;1/8-FINALS;Bunting S.;Searle R.;4.0;3.0
+2021;1/8-FINALS;Van der Voort V.;Gurney D.;2.0;4.0
+2021;1/8-FINALS;van Gerwen M.;Cullen J.;4.0;3.0
+2021;1/8-FINALS;Clemens G.;Ratajski K.;3.0;4.0
+2021;1/16-FINALS;Chisnall D.;Noppert D.;4.0;2.0
+2021;1/16-FINALS;Lowe J.;Petersen D.;0.0;4.0
+2021;1/16-FINALS;Gurney D.;Dobey C.;4.0;1.0
+2021;1/16-FINALS;Wade J.;Bunting S.;2.0;4.0
+2021;1/16-FINALS;Durrant G.;Baggish D.;4.0;2.0
+2021;1/16-FINALS;Price G.;Dolan B.;4.0;3.0
+2021;1/16-FINALS;Anderson G.;Suljovic M.;4.0;3.0
+2021;1/16-FINALS;Aspinall N.;Van der Voort V.;2.0;4.0
+2021;1/16-FINALS;van Duijvenbode D.;Hunt A.;4.0;0.0
+2021;1/16-FINALS;de Sousa J.;King M.;0.0;4.0
+2021;1/16-FINALS;van Gerwen M.;Evans R.;4.0;0.0
+2021;1/16-FINALS;Wright P.;Clemens G.;3.0;4.0
+2021;1/16-FINALS;Cullen J.;Clayton J.;4.0;3.0
+2021;1/16-FINALS;van den Bergh D.;Wattimena J.;4.0;0.0
+2021;1/16-FINALS;Huybrechts K.;Searle R.;2.0;4.0
+2021;1/16-FINALS;Ratajski K.;Whitlock S.;4.0;0.0
+2021;1/32-FINALS;Smith M.;Lowe J.;1.0;3.0
+2021;1/32-FINALS;Aspinall N.;Waites S.;3.0;2.0
+2021;1/32-FINALS;Wattimena J.;Kenny N.;3.0;1.0
+2021;1/32-FINALS;Chisnall D.;Brown K.;3.0;1.0
+2021;1/32-FINALS;Suljovic M.;Edgar M.;3.0;1.0
+2021;1/32-FINALS;Bunting S.;Boulton A.;3.0;2.0
+2021;1/32-FINALS;Anderson G.;Razma M.;3.0;1.0
+2021;1/32-FINALS;Evans R.;Mansell M.;3.0;1.0
+2021;1/32-FINALS;van den Bergh D.;Lim P.;3.0;0.0
+2021;1/32-FINALS;Cross R.;van Duijvenbode D.;2.0;3.0
+2021;1/32-FINALS;Petersen D.;Lennon S.;3.0;1.0
+2021;1/32-FINALS;Noppert D.;Carolissen C.;3.0;1.0
+2021;1/32-FINALS;Lewis A.;Baggish D.;1.0;3.0
+2021;1/32-FINALS;Whitlock S.;Labanauskas D.;3.0;2.0
+2021;1/32-FINALS;Cullen J.;Jones W.;3.0;0.0
+2021;1/32-FINALS;Dolan B.;Foulkes E.;3.0;1.0
+2021;1/32-FINALS;Clemens G.;Kurz N.;3.0;1.0
+2021;1/32-FINALS;Price G.;Lewis J.;3.0;2.0
+2021;1/32-FINALS;White I.;Huybrechts K.;1.0;3.0
+2021;1/32-FINALS;Ratajski K.;Joyce R.;3.0;0.0
+2021;1/32-FINALS;Clayton J.;Henderson J.;3.0;1.0
+2021;1/32-FINALS;de Zwaan J.;Searle R.;0.0;3.0
+2021;1/64-FINALS;Brown K.;Meikle R.;3.0;0.0
+2021;1/64-FINALS;Kleermaker M.;Carolissen C.;;
+2021;1/32-FINALS;Van der Voort V.;Meulenkamp R.;3.0;2.0
+2021;1/64-FINALS;Kuivenhoven M.;Edgar M.;0.0;3.0
+2021;1/64-FINALS;Lowe J.;Gorbunov D.;3.0;1.0
+2021;1/64-FINALS;Telnekes D.;Kenny N.;2.0;3.0
+2021;1/32-FINALS;van Gerwen M.;Murray R.;3.0;1.0
+2021;1/64-FINALS;Heta D.;Baggish D.;2.0;3.0
+2021;1/64-FINALS;Boulton A.;Hedman D.;3.0;1.0
+2021;1/64-FINALS;Hamilton A.;Kurz N.;1.0;3.0
+2021;1/32-FINALS;King M.;Hopp M.;3.0;1.0
+2021;1/64-FINALS;Huybrechts K.;Zhuang D.;3.0;0.0
+2021;1/64-FINALS;Waites S.;Campbell M.;3.0;2.0
+2021;1/64-FINALS;Lennon S.;Larsson D.;3.0;1.0
+2021;1/32-FINALS;Wade J.;Rydz C.;3.0;0.0
+2021;1/64-FINALS;Humphries L.;Lim P.;2.0;3.0
+2021;1/64-FINALS;Henderson J.;Kantele M.;3.0;2.0
+2021;1/64-FINALS;van Duijvenbode D.;Brooks B.;3.0;2.0
+2021;1/32-FINALS;Hughes J.;Hunt A.;0.0;3.0
+2021;1/64-FINALS;Jones W.;Teehan C.;3.0;2.0
+2021;1/64-FINALS;Labanauskas D.;Liu C. A.;3.0;0.0
+2021;1/64-FINALS;Mansell M.;Puha H.;3.0;0.0
+2021;1/32-FINALS;de Sousa J.;Smith R.;3.0;1.0
+2021;1/64-FINALS;Searle R.;Lauby D. Jr.;3.0;2.0
+2021;1/64-FINALS;Meulenkamp R.;Krcmar B.;3.0;1.0
+2021;1/64-FINALS;Woodhouse L.;Lewis J.;2.0;3.0
+2021;1/32-FINALS;Gurney D.;O'Connor W.;3.0;2.0
+2021;1/64-FINALS;Murray R.;Ilagan L.;3.0;1.0
+2021;1/64-FINALS;de Decker M.;Foulkes E.;0.0;3.0
+2021;1/64-FINALS;Razma M.;Suzuki T.;3.0;0.0
+2021;1/32-FINALS;Durrant G.;Portela D.;3.0;0.0
+2021;1/64-FINALS;Hunt A.;Ashton L.;3.0;2.0
+2021;1/64-FINALS;Rydz C.;Bailey J.;3.0;1.0
+2021;1/64-FINALS;Hopp M.;Mathers G.;3.0;0.0
+2021;1/32-FINALS;Dobey C.;Smith J.;3.0;2.0
+2021;1/64-FINALS;O'Connor W.;Zonneveld N.;3.0;0.0
+2021;1/64-FINALS;Smith R.;Evans D.;3.0;0.0
+2021;1/64-FINALS;Joyce R.;Sedlacek K.;3.0;2.0
+2021;1/32-FINALS;Wright P.;West S.;3.0;1.0
+2021;1/64-FINALS;Smith J.;Barry K.;3.0;1.0
+2021;1/64-FINALS;Beaton S.;Portela D.;0.0;3.0
+2021;1/64-FINALS;West S.;Gilitwala A.;3.0;0.0
+2020;FINAL;van Gerwen M.;Wright P.;3.0;7.0
+2020;SEMI-FINALS;van Gerwen M.;Aspinall N.;6.0;3.0
+2020;SEMI-FINALS;Wright P.;Price G.;6.0;3.0
+2020;QUARTER-FINALS;Durrant G.;Price G.;1.0;5.0
+2020;QUARTER-FINALS;van Gerwen M.;Labanauskas D.;5.0;2.0
+2020;QUARTER-FINALS;Humphries L.;Wright P.;3.0;5.0
+2020;QUARTER-FINALS;Aspinall N.;van den Bergh D.;5.0;3.0
+2020;1/8-FINALS;Price G.;Whitlock S.;4.0;2.0
+2020;1/8-FINALS;Durrant G.;Dobey C.;4.0;3.0
+2020;1/8-FINALS;Wright P.;de Zwaan J.;4.0;3.0
+2020;1/8-FINALS;van den Bergh D.;Lewis A.;4.0;3.0
+2020;1/8-FINALS;Huybrechts K.;Humphries L.;1.0;4.0
+2020;1/8-FINALS;Beaton S.;Labanauskas D.;2.0;4.0
+2020;1/8-FINALS;van Gerwen M.;Bunting S.;4.0;0.0
+2020;1/8-FINALS;Anderson G.;Aspinall N.;2.0;4.0
+2020;1/16-FINALS;Price G.;Henderson J.;4.0;0.0
+2020;1/16-FINALS;Sherrock F.;Dobey C.;2.0;4.0
+2020;1/16-FINALS;Gurney D.;Durrant G.;2.0;4.0
+2020;1/16-FINALS;Whitlock S.;King M.;4.0;1.0
+2020;1/16-FINALS;Wright P.;Asada S.;4.0;2.0
+2020;1/16-FINALS;Anderson G.;Searle R.;4.0;3.0
+2020;1/16-FINALS;Chisnall D.;de Zwaan J.;3.0;4.0
+2020;1/16-FINALS;Woodhouse L.;van den Bergh D.;2.0;4.0
+2020;1/16-FINALS;Lewis A.;Webster D.;4.0;3.0
+2020;1/16-FINALS;Kurz N.;Humphries L.;2.0;4.0
+2020;1/16-FINALS;van Gerwen M.;Evans R.;4.0;0.0
+2020;1/16-FINALS;Huybrechts K.;Noppert D.;4.0;2.0
+2020;1/16-FINALS;Wade J.;Beaton S.;2.0;4.0
+2020;1/16-FINALS;Aspinall N.;Ratajski K.;4.0;3.0
+2020;1/16-FINALS;Labanauskas D.;Hopp M.;4.0;2.0
+2020;1/16-FINALS;Clayton J.;Bunting S.;0.0;4.0
+2020;1/32-FINALS;van den Bergh D.;Payne J.;3.0;0.0
+2020;1/32-FINALS;Suljovic M.;Sherrock F.;1.0;3.0
+2020;1/32-FINALS;Durrant G.;Heta D.;3.0;0.0
+2020;1/32-FINALS;Gurney D.;Pipe J.;3.0;0.0
+2020;1/32-FINALS;Lewis A.;Reyes C.;3.0;2.0
+2020;1/32-FINALS;West S.;Searle R.;0.0;3.0
+2020;1/32-FINALS;Whitlock S.;Ward H.;3.0;0.0
+2020;1/32-FINALS;Brown K.;Asada S.;2.0;3.0
+2020;1/32-FINALS;Wright P.;Malicdem N.;3.0;2.0
+2020;1/32-FINALS;Hopp M.;van de Pas B.;3.0;2.0
+2020;1/32-FINALS;Cullen J.;Kurz N.;1.0;3.0
+2020;1/32-FINALS;Aspinall N.;Baggish D.;3.0;1.0
+2020;1/32-FINALS;Evans R.;McGeeney M.;3.0;1.0
+2020;1/32-FINALS;Clayton J.;Dekker J.;3.0;0.0
+2020;1/32-FINALS;King M.;Teehan C.;3.0;2.0
+2020;1/32-FINALS;Webster D.;Yamada Y.;3.0;0.0
+2020;1/32-FINALS;Price G.;O'Connor W.;3.0;2.0
+2020;1/32-FINALS;Chisnall D.;Van der Voort V.;3.0;1.0
+2020;1/32-FINALS;Noppert D.;Rydz C.;3.0;2.0
+2020;1/32-FINALS;Dobey C.;Meulenkamp R.;3.0;2.0
+2020;1/32-FINALS;Beaton S.;Anderson K.;3.0;1.0
+2020;1/32-FINALS;Henderson J.;Richardson J.;3.0;0.0
+2020;PRELIMINARY ROUND;Joyce R.;Dekker J.;2.0;3.0
+2020;PRELIMINARY ROUND;Pipe J.;Pratnemer B.;3.0;2.0
+2020;1/32-FINALS;Wade J.;Edhouse R.;3.0;0.0
+2020;PRELIMINARY ROUND;Clemens G.;van de Pas B.;2.0;3.0
+2020;PRELIMINARY ROUND;Payne J.;Portela D.;3.0;0.0
+2020;PRELIMINARY ROUND;Wilson J.;Kurz N.;1.0;3.0
+2020;1/32-FINALS;Bunting S.;Justicia J.;3.0;2.0
+2020;PRELIMINARY ROUND;Ward H.;Razma M.;3.0;2.0
+2020;PRELIMINARY ROUND;Mansell M.;Asada S.;0.0;3.0
+2020;PRELIMINARY ROUND;Meulenkamp R.;Robb B.;3.0;0.0
+2020;1/32-FINALS;de Zwaan J.;Young D.;3.0;2.0
+2020;PRELIMINARY ROUND;Evetts T.;Sherrock F.;2.0;3.0
+2020;PRELIMINARY ROUND;de Sousa J.;Heta D.;0.0;3.0
+2020;PRELIMINARY ROUND;Edhouse R.;Koltsov B.;3.0;1.0
+2020;1/32-FINALS;Ratajski K.;Lerchbacher Z.;3.0;1.0
+2020;PRELIMINARY ROUND;Rodriguez R.-J.;Malicdem N.;0.0;3.0
+2020;PRELIMINARY ROUND;Reyes C.;Ilagan L.;3.0;2.0
+2020;PRELIMINARY ROUND;Searle R.;King R.;3.0;2.0
+2020;1/32-FINALS;Anderson G.;Dolan B.;3.0;0.0
+2020;PRELIMINARY ROUND;Van der Voort V.;Barry K.;3.0;0.0
+2020;PRELIMINARY ROUND;O'Connor W.;Kantele M.;3.0;0.0
+2020;PRELIMINARY ROUND;Lennon S.;Rydz C.;2.0;3.0
+2020;1/32-FINALS;Smith M.;Woodhouse L.;1.0;3.0
+2020;PRELIMINARY ROUND;Richardson J.;Suzuki M.;3.0;2.0
+2020;PRELIMINARY ROUND;Boulton A.;Baggish D.;2.0;3.0
+2020;PRELIMINARY ROUND;Monk A.;Justicia J.;0.0;3.0
+2020;1/32-FINALS;White I.;Labanauskas D.;1.0;3.0
+2020;PRELIMINARY ROUND;Dolan B.;Kumar N.;3.0;0.0
+2020;PRELIMINARY ROUND;Smith R.;Teehan C.;0.0;3.0
+2020;PRELIMINARY ROUND;Anderson K.;Zong X. C.;3.0;2.0
+2020;1/32-FINALS;Cross R.;Huybrechts K.;0.0;3.0
+2020;PRELIMINARY ROUND;van Barneveld R.;Young D.;1.0;3.0
+2020;PRELIMINARY ROUND;Hughes J.;Lerchbacher Z.;2.0;3.0
+2020;PRELIMINARY ROUND;McGeeney M.;Campbell M.;3.0;1.0
+2020;1/32-FINALS;Wattimena J.;Humphries L.;2.0;3.0
+2020;PRELIMINARY ROUND;Woodhouse L.;Lim P.;3.0;0.0
+2020;PRELIMINARY ROUND;Meikle R.;Yamada Y.;1.0;3.0
+2020;PRELIMINARY ROUND;Labanauskas D.;Edgar M.;3.0;0.0
+2020;1/32-FINALS;van Gerwen M.;Klaasen J.;3.0;1.0
+2020;PRELIMINARY ROUND;Humphries L.;Petersen D.;3.0;1.0
+2020;PRELIMINARY ROUND;Huybrechts K.;Nentjes G.;3.0;2.0
+2020;PRELIMINARY ROUND;Klaasen J.;Burness K.;3.0;1.0
+2019;FINAL;van Gerwen M.;Smith M.;7.0;3.0
+2019;SEMI-FINALS;van Gerwen M.;Anderson G.;6.0;1.0
+2019;SEMI-FINALS;Smith M.;Aspinall N.;6.0;3.0
+2019;QUARTER-FINALS;van Gerwen M.;Joyce R.;5.0;1.0
+2019;QUARTER-FINALS;Humphries L.;Smith M.;1.0;5.0
+2019;QUARTER-FINALS;Anderson G.;Chisnall D.;5.0;2.0
+2019;QUARTER-FINALS;Aspinall N.;Dolan B.;5.0;1.0
+2019;1/8-FINALS;Cross R.;Humphries L.;2.0;4.0
+2019;1/8-FINALS;Lewis J.;Chisnall D.;0.0;4.0
+2019;1/8-FINALS;Searle R.;Smith M.;1.0;4.0
+2019;1/8-FINALS;Joyce R.;Wade J.;4.0;3.0
+2019;1/8-FINALS;van de Pas B.;Dolan B.;1.0;4.0
+2019;1/8-FINALS;Aspinall N.;Petersen D.;4.0;3.0
+2019;1/8-FINALS;van Gerwen M.;Lewis A.;4.0;1.0
+2019;1/8-FINALS;Anderson G.;Dobey C.;4.0;3.0
+2019;1/16-FINALS;Alcinas T.;van de Pas B.;2.0;4.0
+2019;1/16-FINALS;Smith M.;Henderson J.;4.0;2.0
+2019;1/16-FINALS;van den Bergh D.;Humphries L.;1.0;4.0
+2019;1/16-FINALS;Petersen D.;West S.;4.0;2.0
+2019;1/16-FINALS;Cross R.;Reyes C.;4.0;0.0
+2019;1/16-FINALS;Aspinall N.;Anderson K.;4.0;1.0
+2019;1/16-FINALS;Lewis A.;Labanauskas D.;4.0;0.0
+2019;1/16-FINALS;Wade J.;Brown K.;4.0;3.0
+2019;1/16-FINALS;Dolan B.;King M.;4.0;2.0
+2019;1/16-FINALS;Van der Voort V.;Dobey C.;3.0;4.0
+2019;1/16-FINALS;van Gerwen M.;Hopp M.;4.0;1.0
+2019;1/16-FINALS;Anderson G.;Wattimena J.;4.0;3.0
+2019;1/16-FINALS;Searle R.;O'Connor W.;4.0;1.0
+2019;1/16-FINALS;Gurney D.;Lewis J.;3.0;4.0
+2019;1/16-FINALS;Chisnall D.;Huybrechts K.;4.0;0.0
+2019;1/16-FINALS;Joyce R.;Norris A.;4.0;3.0
+2019;1/32-FINALS;Clayton J.;van den Bergh D.;1.0;3.0
+2019;1/32-FINALS;Price G.;Aspinall N.;2.0;3.0
+2019;1/32-FINALS;Klaasen J.;Brown K.;1.0;3.0
+2019;1/32-FINALS;White I.;Petersen D.;2.0;3.0
+2019;1/32-FINALS;Anderson K.;Malicdem N.;3.0;1.0
+2019;1/32-FINALS;West S.;North R.;3.0;1.0
+2019;1/32-FINALS;Henderson J.;Clemens G.;3.0;2.0
+2019;1/32-FINALS;van de Pas B.;Long J.;3.0;2.0
+2019;1/32-FINALS;Suljovic M.;Searle R.;1.0;3.0
+2019;1/32-FINALS;Lewis A.;Evetts T.;3.0;0.0
+2019;1/32-FINALS;King M.;Dekker J.;3.0;2.0
+2019;1/32-FINALS;Reyes C.;Rodriguez R.-J.;3.0;2.0
+2019;1/32-FINALS;Beaton S.;Dobey C.;0.0;3.0
+2019;1/32-FINALS;Bunting S.;Humphries L.;1.0;3.0
+2019;1/32-FINALS;Norris A.;Lennon S.;3.0;2.0
+2019;1/32-FINALS;Wattimena J.;Barnard M.;3.0;0.0
+2019;1/32-FINALS;Wade J.;Asada S.;3.0;2.0
+2019;1/32-FINALS;Smith M.;Meulenkamp R.;3.0;1.0
+2019;1/32-FINALS;Whitlock S.;Joyce R.;0.0;3.0
+2019;1/32-FINALS;Wilson J.;O'Connor W.;2.0;3.0
+2019;1/32-FINALS;Huybrechts K.;Larsson D.;3.0;0.0
+2019;1/32-FINALS;Cullen J.;Dolan B.;0.0;3.0
+2019;PRELIMINARY ROUND;de Graaf J.;Malicdem N.;2.0;3.0
+2019;PRELIMINARY ROUND;Aspinall N.;Nentjes G.;3.0;0.0
+2019;1/32-FINALS;Gurney D.;Smith R.;3.0;0.0
+2019;PRELIMINARY ROUND;van den Bergh D.;Puleo C.;3.0;0.0
+2019;PRELIMINARY ROUND;Meulenkamp R.;Portela D.;3.0;2.0
+2019;PRELIMINARY ROUND;Lennon S.;Bailey J.;3.0;0.0
+2019;1/32-FINALS;Webster D.;Van der Voort V.;0.0;3.0
+2019;PRELIMINARY ROUND;Ratajski K.;Asada S.;2.0;3.0
+2019;PRELIMINARY ROUND;Evans R.;Rodriguez R.-J.;1.0;3.0
+2019;PRELIMINARY ROUND;Thornton R.;Larsson D.;1.0;3.0
+2019;1/32-FINALS;van Barneveld R.;Labanauskas D.;2.0;3.0
+2019;PRELIMINARY ROUND;Joyce R.;Dobromyslova A.;3.0;0.0
+2019;PRELIMINARY ROUND;Jones W.;Petersen D.;2.0;3.0
+2019;PRELIMINARY ROUND;Van der Voort V.;Ilagan L.;3.0;1.0
+2019;1/32-FINALS;Wright P.;Alcinas T.;1.0;3.0
+2019;PRELIMINARY ROUND;Smith R.;Lim P.;3.0;1.0
+2019;PRELIMINARY ROUND;Edgar M.;Labanauskas D.;1.0;3.0
+2019;PRELIMINARY ROUND;Humphries L.;Hunt A.;3.0;0.0
+2019;1/32-FINALS;Chisnall D.;Payne J.;3.0;2.0
+2019;PRELIMINARY ROUND;Dolan B.;Liu Y.;3.0;0.0
+2019;PRELIMINARY ROUND;O'Connor W.;Meeuwisse Y.;3.0;0.0
+2019;PRELIMINARY ROUND;Clemens G.;Kirk A.;3.0;0.0
+2019;1/32-FINALS;van Gerwen M.;Tabern A.;3.0;1.0
+2019;PRELIMINARY ROUND;Brown K.;Sedlacek K.;3.0;0.0
+2019;PRELIMINARY ROUND;Searle R.;Burton S.;3.0;0.0
+2019;PRELIMINARY ROUND;Alcinas T.;Ross C.;3.0;0.0
+2019;1/32-FINALS;Hopp M.;Noppert D.;3.0;0.0
+2019;PRELIMINARY ROUND;Payne J.;Smith J.;3.0;2.0
+2019;PRELIMINARY ROUND;Mansell M.;Long J.;1.0;3.0
+2019;PRELIMINARY ROUND;North R.;Marijanovic R.;3.0;2.0
+2019;1/32-FINALS;Anderson G.;Burness K.;3.0;1.0
+2019;PRELIMINARY ROUND;Dobey C.;Koltsov B.;3.0;0.0
+2019;PRELIMINARY ROUND;Stevenson S.;Evetts T.;0.0;3.0
+2019;PRELIMINARY ROUND;Noppert D.;Lam R.;3.0;0.0
+2019;1/32-FINALS;Lewis J.;Harris C.;3.0;2.0
+2019;PRELIMINARY ROUND;Nicholson P.;Burness K.;0.0;3.0
+2019;PRELIMINARY ROUND;Tabern A.;Smith R.;3.0;2.0
+2019;PRELIMINARY ROUND;Barnard M.;de Sousa J.;3.0;2.0
+2019;1/32-FINALS;Cross R.;de Zwaan J.;3.0;1.0
+2019;PRELIMINARY ROUND;Dekker J.;Ashton L.;3.0;1.0
+2019;PRELIMINARY ROUND;Schindler M.;Harris C.;2.0;3.0
+2019;PRELIMINARY ROUND;de Zwaan J.;Kumar N.;3.0;0.0
+2018;FINAL;Cross R.;Taylor P.;7.0;2.0
+2018;SEMI-FINALS;van Gerwen M.;Cross R.;5.0;6.0
+2018;SEMI-FINALS;Lewis J.;Taylor P.;1.0;6.0
+2018;QUARTER-FINALS;Taylor P.;Anderson G.;5.0;3.0
+2018;QUARTER-FINALS;van Gerwen M.;van Barneveld R.;5.0;4.0
+2018;QUARTER-FINALS;van den Bergh D.;Cross R.;4.0;5.0
+2018;QUARTER-FINALS;Lewis J.;Webster D.;5.0;0.0
+2018;1/8-FINALS;Anderson G.;West S.;4.0;2.0
+2018;1/8-FINALS;Taylor P.;Brown K.;4.0;0.0
+2018;1/8-FINALS;Lewis J.;Richardson J.;4.0;1.0
+2018;1/8-FINALS;Henderson J.;Cross R.;1.0;4.0
+2018;1/8-FINALS;Suljovic M.;van den Bergh D.;0.0;4.0
+2018;1/8-FINALS;Alcinas T.;Webster D.;0.0;4.0
+2018;1/8-FINALS;van Gerwen M.;Price G.;4.0;2.0
+2018;1/8-FINALS;Van der Voort V.;van Barneveld R.;1.0;4.0
+2018;1/16-FINALS;Wright P.;Lewis J.;1.0;4.0
+2018;1/16-FINALS;Munch K.;Alcinas T.;1.0;4.0
+2018;1/16-FINALS;Norris A.;Richardson J.;1.0;4.0
+2018;1/16-FINALS;Whitlock S.;Webster D.;1.0;4.0
+2018;1/16-FINALS;van Barneveld R.;Anderson K.;4.0;1.0
+2018;1/16-FINALS;Taylor P.;Pipe J.;4.0;0.0
+2018;1/16-FINALS;Gurney D.;Henderson J.;2.0;4.0
+2018;1/16-FINALS;West S.;Wattimena J.;4.0;1.0
+2018;1/16-FINALS;Smith M.;Cross R.;3.0;4.0
+2018;1/16-FINALS;Brown K.;Lerchbacher Z.;4.0;2.0
+2018;1/16-FINALS;van Gerwen M.;Wilson J.;4.0;0.0
+2018;1/16-FINALS;Anderson G.;Lim P.;4.0;1.0
+2018;1/16-FINALS;Suljovic M.;Thornton R.;4.0;2.0
+2018;1/16-FINALS;Dekker J.;van den Bergh D.;2.0;4.0
+2018;1/16-FINALS;Van der Voort V.;Beaton S.;4.0;0.0
+2018;1/16-FINALS;Price G.;White I.;4.0;1.0
+2018;1/32-FINALS;Wright P.;Portela D.;3.0;1.0
+2018;1/32-FINALS;Webster D.;Petersen D.;3.0;2.0
+2018;1/32-FINALS;Huybrechts K.;Richardson J.;0.0;3.0
+2018;1/32-FINALS;Reyes C.;Alcinas T.;1.0;3.0
+2018;1/32-FINALS;Pipe J.;Smith B.;3.0;2.0
+2018;1/32-FINALS;Whitlock S.;Schindler M.;3.0;1.0
+2018;1/32-FINALS;Smith M.;Lennon S.;3.0;2.0
+2018;PRELIMINARY ROUND;Zong X. C.;Smith B.;0.0;2.0
+2018;1/32-FINALS;Lewis A.;Munch K.;1.0;3.0
+2018;1/32-FINALS;van Barneveld R.;North R.;3.0;0.0
+2018;1/32-FINALS;Henderson J.;Kantele M.;3.0;0.0
+2018;PRELIMINARY ROUND;Oreshkin A.;Munch K.;0.0;2.0
+2018;1/32-FINALS;Webster M.;Lim P.;2.0;3.0
+2018;1/32-FINALS;Gurney D.;Huybrechts R.;3.0;1.0
+2018;1/32-FINALS;Suljovic M.;Painter K.;3.0;0.0
+2018;PRELIMINARY ROUND;Leung K. F.;Lim P.;0.0;2.0
+2018;1/32-FINALS;White I.;Harris C.;3.0;1.0
+2018;1/32-FINALS;Chisnall D.;Van der Voort V.;0.0;3.0
+2018;1/32-FINALS;Wade J.;Brown K.;2.0;3.0
+2018;PRELIMINARY ROUND;Bruguier W.;Harris C.;1.0;2.0
+2018;1/32-FINALS;Clayton J.;Lewis J.;0.0;3.0
+2018;1/32-FINALS;Anderson K.;Jacques P.;3.0;1.0
+2018;1/32-FINALS;Norris A.;Viljanen K.;3.0;0.0
+2018;PRELIMINARY ROUND;Neyens K.;Lewis J.;1.0;2.0
+2018;1/32-FINALS;Anderson G.;Smith J.;3.0;0.0
+2018;1/32-FINALS;Klaasen J.;Dekker J.;1.0;3.0
+2018;1/32-FINALS;Cullen J.;Wattimena J.;2.0;3.0
+2018;PRELIMINARY ROUND;Smith J.;Humphries L.;2.0;0.0
+2018;1/32-FINALS;Thornton R.;Dolan B.;3.0;1.0
+2018;1/32-FINALS;King M.;Lerchbacher Z.;2.0;3.0
+2018;1/32-FINALS;van de Pas B.;West S.;1.0;3.0
+2018;PRELIMINARY ROUND;Ljubic A.;Dolan B.;0.0;2.0
+2018;1/32-FINALS;Cross R.;Asada S.;3.0;0.0
+2018;1/32-FINALS;Taylor P.;Dobey C.;3.0;1.0
+2018;1/32-FINALS;Bunting S.;van den Bergh D.;1.0;3.0
+2018;PRELIMINARY ROUND;Asada S.;Mathers G.;2.0;1.0
+2018;1/32-FINALS;Price G.;Evetts T.;3.0;0.0
+2018;1/32-FINALS;van Gerwen M.;Kist C.;3.0;1.0
+2018;1/32-FINALS;Wilson J.;Ratajski K.;3.0;1.0
+2018;1/32-FINALS;Beaton S.;O'Connor W.;3.0;1.0
+2017;FINAL;van Gerwen M.;Anderson G.;7.0;3.0
+2017;SEMI-FINALS;van Gerwen M.;van Barneveld R.;6.0;2.0
+2017;SEMI-FINALS;Anderson G.;Wright P.;6.0;3.0
+2017;QUARTER-FINALS;van Barneveld R.;Taylor P.;5.0;3.0
+2017;QUARTER-FINALS;van Gerwen M.;Gurney D.;5.0;1.0
+2017;QUARTER-FINALS;Anderson G.;Chisnall D.;5.0;3.0
+2017;QUARTER-FINALS;Wade J.;Wright P.;3.0;5.0
+2017;1/8-FINALS;van Gerwen M.;Webster D.;4.0;1.0
+2017;1/8-FINALS;Taylor P.;Huybrechts K.;4.0;2.0
+2017;1/8-FINALS;Wright P.;White I.;4.0;1.0
+2017;1/8-FINALS;Wade J.;Smith M.;4.0;3.0
+2017;1/8-FINALS;Chisnall D.;Klaasen J.;4.0;2.0
+2017;1/8-FINALS;Webster M.;Gurney D.;3.0;4.0
+2017;1/8-FINALS;Lewis A.;van Barneveld R.;3.0;4.0
+2017;1/8-FINALS;Anderson G.;van de Pas B.;4.0;2.0
+2017;1/16-FINALS;Wright P.;Lewis J.;4.0;0.0
+2017;1/16-FINALS;Klaasen J.;Dolan B.;4.0;0.0
+2017;1/16-FINALS;Wade J.;Beaton S.;4.0;1.0
+2017;1/16-FINALS;Huybrechts K.;Hopp M.;4.0;0.0
+2017;1/16-FINALS;van Gerwen M.;Reyes C.;4.0;2.0
+2017;1/16-FINALS;Taylor P.;Painter K.;4.0;0.0
+2017;1/16-FINALS;van Barneveld R.;Norris A.;4.0;0.0
+2017;1/16-FINALS;Chisnall D.;Dobey C.;4.0;2.0
+2017;1/16-FINALS;Thornton R.;Gurney D.;3.0;4.0
+2017;1/16-FINALS;Suljovic M.;Webster M.;3.0;4.0
+2017;1/16-FINALS;Lewis A.;Cullen J.;4.0;0.0
+2017;1/16-FINALS;Anderson G.;Gilding A.;4.0;0.0
+2017;1/16-FINALS;Webster D.;Whitlock S.;4.0;0.0
+2017;1/16-FINALS;van de Pas B.;Jenkins T.;4.0;3.0
+2017;1/16-FINALS;Smith M.;King M.;4.0;3.0
+2017;1/16-FINALS;White I.;Clayton J.;4.0;1.0
+2017;1/32-FINALS;Huybrechts K.;Wilson J.;3.0;0.0
+2017;1/32-FINALS;Chisnall D.;Rodriguez R.-J.;3.0;2.0
+2017;1/32-FINALS;Van der Voort V.;Hopp M.;1.0;3.0
+2017;1/32-FINALS;Klaasen J.;de Graaf J.;3.0;1.0
+2017;1/32-FINALS;Thornton R.;Lerchbacher Z.;3.0;0.0
+2017;1/32-FINALS;Wade J.;Huybrechts R.;3.0;0.0
+2017;1/32-FINALS;Suljovic M.;Meulenkamp R.;3.0;0.0
+2017;FINAL;Lerchbacher Z.;Stevenson S.;2.0;1.0
+2017;1/32-FINALS;Whitlock S.;Horvat D.;3.0;0.0
+2017;1/32-FINALS;van Barneveld R.;Green R.;3.0;0.0
+2017;1/32-FINALS;Dolan B.;Kist C.;3.0;1.0
+2017;FINAL;Koltsov B.;Horvat D.;1.0;2.0
+2017;1/32-FINALS;Cullen J.;Cadby C.;3.0;1.0
+2017;1/32-FINALS;Lewis A.;Caris M.;3.0;0.0
+2017;1/32-FINALS;King M.;West S.;3.0;2.0
+2017;FINAL;Qiang S.;Cadby C.;0.0;2.0
+2017;1/32-FINALS;Taylor P.;Platt D.;3.0;0.0
+2017;1/32-FINALS;Norris A.;Michael J.;3.0;2.0
+2017;1/32-FINALS;Gurney D.;Wattimena J.;3.0;1.0
+2017;FINAL;Bowles J.;Platt D.;0.0;2.0
+2017;1/32-FINALS;White I.;Simm K.;3.0;0.0
+2017;1/32-FINALS;Webster M.;Murnan J.;3.0;0.0
+2017;1/32-FINALS;Pipe J.;Dobey C.;1.0;3.0
+2017;FINAL;Simm K.;Ulang G.;2.0;0.0
+2017;1/32-FINALS;van Gerwen M.;Viljanen K.;3.0;0.0
+2017;1/32-FINALS;Bunting S.;Webster D.;2.0;3.0
+2017;1/32-FINALS;Reyes C.;van den Bergh D.;3.0;2.0
+2017;FINAL;Snook R.;Viljanen K.;0.0;2.0
+2017;1/32-FINALS;van de Pas B.;Shah T. H.;3.0;1.0
+2017;1/32-FINALS;Henderson J.;Gilding A.;2.0;3.0
+2017;1/32-FINALS;Jenkins T.;Payne J.;3.0;1.0
+2017;FINAL;Shah T. H.;Chino M.;2.0;1.0
+2017;1/32-FINALS;Wright P.;Hendriks J.;3.0;0.0
+2017;1/32-FINALS;Beaton S.;Petersen D.;3.0;1.0
+2017;1/32-FINALS;Price G.;Clayton J.;1.0;3.0
+2017;FINAL;Hendriks J.;Parry W.;2.0;0.0
+2017;1/32-FINALS;Smith M.;Evans R.;3.0;2.0
+2017;1/32-FINALS;Anderson G.;Frost M.;3.0;0.0
+2017;1/32-FINALS;Lewis J.;McGowan M.;3.0;2.0
+2017;1/32-FINALS;Caven J.;Painter K.;1.0;3.0
+2016;FINAL;Lewis A.;Anderson G.;5.0;7.0
+2016;SEMI-FINALS;Anderson G.;Klaasen J.;6.0;0.0
+2016;SEMI-FINALS;van Barneveld R.;Lewis A.;3.0;6.0
+2016;QUARTER-FINALS;Lewis A.;Wright P.;5.0;2.0
+2016;QUARTER-FINALS;van Barneveld R.;Smith M.;5.0;4.0
+2016;QUARTER-FINALS;Anderson G.;Wade J.;5.0;1.0
+2016;QUARTER-FINALS;Norris A.;Klaasen J.;4.0;5.0
+2016;1/8-FINALS;Taylor P.;Klaasen J.;3.0;4.0
+2016;1/8-FINALS;Norris A.;Webster M.;4.0;1.0
+2016;1/8-FINALS;Wright P.;Chisnall D.;4.0;3.0
+2016;1/8-FINALS;van Gerwen M.;van Barneveld R.;3.0;4.0
+2016;1/8-FINALS;Anderson G.;Van der Voort V.;4.0;0.0
+2016;1/8-FINALS;Lewis A.;Suljovic M.;4.0;0.0
+2016;1/8-FINALS;Wade J.;Caven J.;4.0;1.0
+2016;1/8-FINALS;Smith M.;van de Pas B.;4.0;0.0
+2016;1/16-FINALS;King M.;Klaasen J.;2.0;4.0
+2016;1/16-FINALS;Taylor P.;Painter K.;4.0;1.0
+2016;1/16-FINALS;Wright P.;Huybrechts R.;4.0;0.0
+2016;1/16-FINALS;Lewis A.;Gilding A.;4.0;0.0
+2016;1/16-FINALS;Pallett D.;Suljovic M.;3.0;4.0
+2016;1/16-FINALS;Jenkins T.;Webster M.;0.0;4.0
+2016;1/16-FINALS;Norris A.;Murnan J.;4.0;1.0
+2016;1/16-FINALS;van Gerwen M.;Webster D.;4.0;0.0
+2016;1/16-FINALS;Wade J.;Newton W.;4.0;0.0
+2016;1/16-FINALS;van Barneveld R.;Bunting S.;4.0;3.0
+2016;1/16-FINALS;Van der Voort V.;Anderson K.;4.0;2.0
+2016;1/16-FINALS;van den Bergh D.;van de Pas B.;2.0;4.0
+2016;1/16-FINALS;Smith M.;Beaton S.;4.0;2.0
+2016;1/16-FINALS;Anderson G.;Gurney D.;4.0;1.0
+2016;1/16-FINALS;Chisnall D.;Kist C.;4.0;1.0
+2016;1/16-FINALS;Evans R.;Caven J.;0.0;4.0
+2016;1/32-FINALS;Klaasen J.;Cullen J.;3.0;0.0
+2016;1/32-FINALS;Lewis A.;Dekker J.;3.0;0.0
+2016;1/32-FINALS;van de Pas B.;Hopp M.;3.0;1.0
+2016;1/32-FINALS;Gilding A.;Price G.;3.0;0.0
+2016;1/32-FINALS;Jenkins T.;Young D.;3.0;1.0
+2016;1/32-FINALS;Chisnall D.;Rodriguez R.-J.;3.0;0.0
+2016;1/32-FINALS;Newton W.;Reyes C.;3.0;1.0
+2016;1/32-FINALS;Winstanley D.;Huybrechts R.;2.0;3.0
+2016;1/32-FINALS;Wade J.;Michael J.;3.0;0.0
+2016;1/32-FINALS;Smith M.;de Zwaan J.;3.0;2.0
+2016;1/32-FINALS;Thornton R.;Norris A.;0.0;3.0
+2016;FINAL;Scheffer W.;Michael J.;0.0;2.0
+2016;1/32-FINALS;King M.;Oreshkin A.;3.0;2.0
+2016;1/32-FINALS;van Barneveld R.;van Duijvenbode D.;3.0;0.0
+2016;1/32-FINALS;Bunting S.;Artut J.;3.0;0.0
+2016;FINAL;Oreshkin A.;Lim P.;2.0;1.0
+2016;1/32-FINALS;Caven J.;Szabo R.;3.0;0.0
+2016;1/32-FINALS;Suljovic M.;Wattimena J.;3.0;1.0
+2016;1/32-FINALS;Hamilton A.;Murnan J.;2.0;3.0
+2016;FINAL;Rasztovits M.;Szabo R.;0.0;2.0
+2016;1/32-FINALS;Taylor P.;Ono K.;3.0;0.0
+2016;1/32-FINALS;Van der Voort V.;Ryder L.;3.0;0.0
+2016;1/32-FINALS;Whitlock S.;Evans R.;2.0;3.0
+2016;FINAL;Ono K.;Tagarao A.;2.0;0.0
+2016;1/32-FINALS;Painter K.;Viljanen K.;3.0;0.0
+2016;1/32-FINALS;White I.;van den Bergh D.;1.0;3.0
+2016;1/32-FINALS;Beaton S.;Kokiri K.;3.0;0.0
+2016;FINAL;Viljanen K.;Groen S.;2.0;1.0
+2016;1/32-FINALS;van Gerwen M.;Eidams R.;3.0;2.0
+2016;1/32-FINALS;Huybrechts K.;Pallett D.;2.0;3.0
+2016;1/32-FINALS;Dolan B.;Anderson K.;0.0;3.0
+2016;FINAL;Gaweenuntawong T.;Eidams R.;0.0;2.0
+2016;1/32-FINALS;Webster M.;McGowan M.;3.0;0.0
+2016;1/32-FINALS;Pipe J.;Kist C.;0.0;3.0
+2016;1/32-FINALS;Henderson J.;Webster D.;1.0;3.0
+2016;FINAL;Qiang S.;McGowan M.;0.0;2.0
+2016;1/32-FINALS;Anderson G.;Boulton A.;3.0;0.0
+2016;1/32-FINALS;Wright P.;Brown K.;3.0;0.0
+2016;1/32-FINALS;Lewis J.;Gurney D.;1.0;3.0
+2016;FINAL;Boulton A.;Laursen P.;2.0;1.0
+2015;FINAL;Anderson G.;Taylor P.;7.0;6.0
+2015;SEMI-FINALS;Taylor P.;van Barneveld R.;6.0;2.0
+2015;SEMI-FINALS;van Gerwen M.;Anderson G.;3.0;6.0
+2015;QUARTER-FINALS;Bunting S.;van Barneveld R.;4.0;5.0
+2015;QUARTER-FINALS;Taylor P.;Van der Voort V.;5.0;3.0
+2015;QUARTER-FINALS;Wright P.;Anderson G.;1.0;5.0
+2015;QUARTER-FINALS;van Gerwen M.;Thornton R.;5.0;2.0
+2015;1/8-FINALS;Bunting S.;Smith M.;4.0;2.0
+2015;1/8-FINALS;Taylor P.;Huybrechts K.;4.0;3.0
+2015;1/8-FINALS;Lewis A.;van Barneveld R.;3.0;4.0
+2015;1/8-FINALS;Winstanley D.;Van der Voort V.;2.0;4.0
+2015;1/8-FINALS;Anderson G.;Reyes C.;4.0;1.0
+2015;1/8-FINALS;Wright P.;Hamilton A.;4.0;0.0
+2015;1/8-FINALS;van de Pas B.;Thornton R.;0.0;4.0
+2015;1/8-FINALS;van Gerwen M.;Jenkins T.;4.0;1.0
+2015;1/16-FINALS;Wade J.;Bunting S.;1.0;4.0
+2015;1/16-FINALS;van Barneveld R.;Caven J.;4.0;3.0
+2015;1/16-FINALS;Hopp M.;Van der Voort V.;0.0;4.0
+2015;1/16-FINALS;Dolan B.;Smith M.;2.0;4.0
+2015;1/16-FINALS;Lewis A.;Brown K.;4.0;2.0
+2015;1/16-FINALS;Taylor P.;Webster M.;4.0;0.0
+2015;1/16-FINALS;Webster D.;Winstanley D.;3.0;4.0
+2015;1/16-FINALS;White I.;Huybrechts K.;3.0;4.0
+2015;1/16-FINALS;Reyes C.;Painter K.;4.0;3.0
+2015;1/16-FINALS;Hamilton A.;Anderson K.;4.0;2.0
+2015;1/16-FINALS;Anderson G.;Klaasen J.;4.0;3.0
+2015;1/16-FINALS;van Gerwen M.;Stein S.;4.0;1.0
+2015;1/16-FINALS;Chisnall D.;van de Pas B.;2.0;4.0
+2015;1/16-FINALS;Wright P.;Huybrechts R.;4.0;1.0
+2015;1/16-FINALS;Jenkins T.;Ryder L.;4.0;0.0
+2015;1/16-FINALS;Thornton R.;Baxter R.;4.0;0.0
+2015;1/32-FINALS;Bunting S.;Marijanovic R.;3.0;1.0
+2015;1/32-FINALS;Lewis A.;Pallett D.;3.0;0.0
+2015;1/32-FINALS;King M.;Hopp M.;2.0;3.0
+2015;FINAL;Wattimena J.;Marijanovic R.;;
+2015;1/32-FINALS;Van der Voort V.;Henderson J.;3.0;2.0
+2015;1/32-FINALS;Dolan B.;Arendse N.;3.0;0.0
+2015;1/32-FINALS;van Barneveld R.;Rodriguez R.-J.;3.0;0.0
+2015;1/32-FINALS;Smith M.;Suljovic M.;3.0;1.0
+2015;FINAL;Arendse N.;Hon A.;;
+2015;1/32-FINALS;Caven J.;Hogg J.;3.0;2.0
+2015;1/32-FINALS;White I.;Michael J.;3.0;1.0
+2015;1/32-FINALS;Wade J.;Lewis J.;3.0;1.0
+2015;1/32-FINALS;Chisnall D.;de Vreede R.;3.0;0.0
+2015;FINAL;Haavisto J.;Michael J.;;
+2015;1/32-FINALS;Huybrechts K.;Mansell M.;3.0;0.0
+2015;1/32-FINALS;Painter K.;Koltsov B.;3.0;1.0
+2015;1/32-FINALS;Winstanley D.;Jones W.;3.0;2.0
+2015;1/32-FINALS;Webster M.;Meulenkamp R.;3.0;1.0
+2015;FINAL;Koltsov B.;Muramatsu H.;;
+2015;1/32-FINALS;Nicholson P.;van de Pas B.;2.0;3.0
+2015;1/32-FINALS;Anderson G.;Kirchner S.;3.0;1.0
+2015;1/32-FINALS;Whitlock S.;Webster D.;1.0;3.0
+2015;1/32-FINALS;Jenkins T.;Weber J.;3.0;1.0
+2015;FINAL;McGrath M.;Kirchner S.;;
+2015;1/32-FINALS;Beaton S.;Anderson K.;0.0;3.0
+2015;1/32-FINALS;Baxter R.;Gurney D.;3.0;1.0
+2015;1/32-FINALS;Thornton R.;Gilding A.;3.0;0.0
+2015;1/32-FINALS;Pipe J.;Ryder L.;2.0;3.0
+2015;FINAL;MacKenzie S.;Gurney D.;;
+2015;1/32-FINALS;Smith A.;Huybrechts R.;0.0;3.0
+2015;1/32-FINALS;Kellett S.;Stein S.;1.0;3.0
+2015;1/32-FINALS;Taylor P.;Artut J.;3.0;0.0
+2015;1/32-FINALS;Wright P.;Price G.;3.0;0.0
+2015;FINAL;Viljanen K.;Stein S.;;
+2015;1/32-FINALS;Hamilton A.;Richardson D.;3.0;2.0
+2015;1/32-FINALS;Newton W.;Reyes C.;2.0;3.0
+2015;1/32-FINALS;van Gerwen M.;Cullen J.;3.0;1.0
+2015;1/32-FINALS;Klaasen J.;Kist C.;3.0;1.0
+2015;FINAL;Perez C.;Reyes C.;;
+2015;1/32-FINALS;Part J.;Brown K.;2.0;3.0
+2014;FINAL;Wright P.;van Gerwen M.;4.0;7.0
+2014;SEMI-FINALS;van Gerwen M.;Lewis A.;6.0;0.0
+2014;SEMI-FINALS;Wright P.;Whitlock S.;6.0;2.0
+2014;QUARTER-FINALS;Wade J.;Lewis A.;1.0;5.0
+2014;QUARTER-FINALS;van Gerwen M.;Webster M.;5.0;3.0
+2014;QUARTER-FINALS;White I.;Whitlock S.;4.0;5.0
+2014;QUARTER-FINALS;Wright P.;Newton W.;5.0;4.0
+2014;1/8-FINALS;van Gerwen M.;Anderson G.;4.0;3.0
+2014;1/8-FINALS;Wade J.;Petersen D.;4.0;0.0
+2014;1/8-FINALS;Lewis A.;King M.;4.0;1.0
+2014;1/8-FINALS;Webster M.;van Barneveld R.;4.0;3.0
+2014;1/8-FINALS;Smith M.;Wright P.;3.0;4.0
+2014;1/8-FINALS;Whitlock S.;Painter K.;4.0;0.0
+2014;1/8-FINALS;Burnett R.;White I.;3.0;4.0
+2014;1/8-FINALS;Newton W.;Thornton R.;4.0;1.0
+2014;1/16-FINALS;Pipe J.;Petersen D.;1.0;4.0
+2014;1/16-FINALS;Lewis A.;Van der Voort V.;4.0;1.0
+2014;1/16-FINALS;King M.;Evans R.;4.0;2.0
+2014;1/16-FINALS;Wade J.;Smith A.;4.0;3.0
+2014;1/16-FINALS;van Gerwen M.;McDine K.;4.0;1.0
+2014;1/16-FINALS;Henderson J.;Webster M.;3.0;4.0
+2014;1/16-FINALS;Newton W.;Part J.;4.0;0.0
+2014;1/16-FINALS;Whitlock S.;Komula J.;4.0;0.0
+2014;1/16-FINALS;Painter K.;Nicholson P.;4.0;0.0
+2014;1/16-FINALS;Dolan B.;Anderson G.;1.0;4.0
+2014;1/16-FINALS;Huybrechts K.;White I.;3.0;4.0
+2014;1/16-FINALS;Thornton R.;Anderson B.;4.0;0.0
+2014;1/16-FINALS;Hamilton A.;Burnett R.;1.0;4.0
+2014;1/16-FINALS;Taylor P.;Smith M.;3.0;4.0
+2014;1/16-FINALS;van Barneveld R.;Caven J.;4.0;3.0
+2014;1/16-FINALS;Wright P.;Laursen P.;4.0;2.0
+2014;1/32-FINALS;Painter K.;Seyler T.;3.0;0.0
+2014;1/32-FINALS;Newton W.;Lam R.;3.0;1.0
+2014;1/32-FINALS;Wade J.;Webster D.;3.0;2.0
+2014;FINAL;Vos G.;Lam R.;1.0;4.0
+2014;1/32-FINALS;Webster M.;Suljovic M.;3.0;2.0
+2014;1/32-FINALS;Lewis A.;Smith D.;3.0;0.0
+2014;1/32-FINALS;Smith M.;Hashimoto M.;3.0;1.0
+2014;1/32-FINALS;Pipe J.;Monk A.;3.0;0.0
+2014;FINAL;Hashimoto M.;Lim P.;4.0;2.0
+2014;1/32-FINALS;Smith A.;Brown S.;3.0;1.0
+2014;1/32-FINALS;Whitlock S.;Smith R.;3.0;0.0
+2014;1/32-FINALS;van Gerwen M.;Lerchbacher Z.;3.0;0.0
+2014;1/32-FINALS;Van der Voort V.;Clark M.;3.0;1.0
+2014;FINAL;Lerchbacher Z.;Ward B.;4.0;1.0
+2014;1/32-FINALS;Lloyd C.;Anderson B.;2.0;3.0
+2014;1/32-FINALS;King M.;Young D.;3.0;0.0
+2014;1/32-FINALS;Beaton S.;Petersen D.;1.0;3.0
+2014;1/32-FINALS;Huybrechts K.;Huybrechts R.;3.0;1.0
+2014;FINAL;Petersen D.;Latif Sapup M.;4.0;1.0
+2014;1/32-FINALS;Baxter R.;Evans R.;0.0;3.0
+2014;1/32-FINALS;Caven J.;Klaasen J.;3.0;1.0
+2014;1/32-FINALS;Dolan B.;Osborne C.;3.0;0.0
+2014;1/32-FINALS;van Barneveld R.;Lewis J.;3.0;0.0
+2014;FINAL;Lindskjold D.;Osborne C.;1.0;4.0
+2014;1/32-FINALS;Chisnall D.;Henderson J.;2.0;3.0
+2014;1/32-FINALS;Nicholson P.;Kellett S.;3.0;0.0
+2014;1/32-FINALS;Hamilton A.;Barbero J.;3.0;1.0
+2014;1/32-FINALS;Anderson G.;Dudbridge M.;3.0;0.0
+2014;1/32-FINALS;Thornton R.;Hopp M.;3.0;1.0
+2014;FINAL;Barbero J.;Welge A.;4.0;1.0
+2014;1/32-FINALS;White I.;Anderson K.;3.0;1.0
+2014;1/32-FINALS;Jenkins T.;Laursen P.;2.0;3.0
+2014;1/32-FINALS;Jones W.;McDine K.;2.0;3.0
+2014;FINAL;McGarry C.;Laursen P.;2.0;4.0
+2014;1/32-FINALS;Walsh M.;Komula J.;1.0;3.0
+2014;1/32-FINALS;Burnett R.;Winstanley D.;3.0;1.0
+2014;1/32-FINALS;Taylor P.;Szabo R.;3.0;1.0
+2014;1/32-FINALS;Wright P.;Cullen J.;3.0;0.0
+2014;FINAL;Szabo R.;Moss I.;4.0;3.0
+2014;1/32-FINALS;Part J.;Michels M.;3.0;2.0
+2013;FINAL;Taylor P.;van Gerwen M.;7.0;4.0
+2013;SEMI-FINALS;Taylor P.;van Barneveld R.;6.0;4.0
+2013;SEMI-FINALS;van Gerwen M.;Wade J.;6.0;4.0
+2013;QUARTER-FINALS;Lewis A.;van Gerwen M.;4.0;5.0
+2013;QUARTER-FINALS;Newton W.;Wade J.;4.0;5.0
+2013;QUARTER-FINALS;Taylor P.;Hamilton A.;5.0;0.0
+2013;QUARTER-FINALS;Whitlock S.;van Barneveld R.;1.0;5.0
+2013;1/8-FINALS;Lewis A.;Painter K.;4.0;2.0
+2013;1/8-FINALS;Anderson G.;van Barneveld R.;0.0;4.0
+2013;1/8-FINALS;van Gerwen M.;Lloyd C.;4.0;1.0
+2013;1/8-FINALS;Wade J.;Van der Voort V.;4.0;0.0
+2013;1/8-FINALS;Whitlock S.;Chisnall D.;4.0;3.0
+2013;1/8-FINALS;Newton W.;Walsh M.;4.0;1.0
+2013;1/8-FINALS;Taylor P.;Thornton R.;4.0;0.0
+2013;1/8-FINALS;Hamilton A.;Jenkins T.;4.0;1.0
+2013;1/16-FINALS;van Gerwen M.;Wright P.;4.0;2.0
+2013;1/16-FINALS;Wade J.;Beaton S.;4.0;2.0
+2013;1/16-FINALS;Winstanley D.;Van der Voort V.;2.0;4.0
+2013;1/16-FINALS;Pipe J.;Walsh M.;2.0;4.0
+2013;1/16-FINALS;Lewis A.;Ovens D.;4.0;1.0
+2013;1/16-FINALS;Whitlock S.;Osborne C.;4.0;0.0
+2013;1/16-FINALS;Newton W.;Rand S.;4.0;0.0
+2013;1/16-FINALS;van Barneveld R.;Dolan B.;4.0;1.0
+2013;1/16-FINALS;Webster M.;Lloyd C.;2.0;4.0
+2013;1/16-FINALS;Painter K.;Baxter R.;4.0;3.0
+2013;1/16-FINALS;Taylor P.;Hendriks J.;4.0;1.0
+2013;1/16-FINALS;Nicholson P.;Thornton R.;3.0;4.0
+2013;1/16-FINALS;Jenkins T.;Part J.;4.0;1.0
+2013;1/16-FINALS;Anderson G.;Bowles J.;4.0;3.0
+2013;1/16-FINALS;Chisnall D.;Gurney D.;4.0;1.0
+2013;1/16-FINALS;Hamilton A.;Burnett R.;4.0;1.0
+2013;1/32-FINALS;van Gerwen M.;Lim P.;3.0;0.0
+2013;1/32-FINALS;Van der Voort V.;Kellett S.;3.0;0.0
+2013;1/32-FINALS;Huybrechts K.;Rand S.;2.0;3.0
+2013;FINAL;Lim P.;Latif Sapup M.;4.0;1.0
+2013;1/32-FINALS;Walsh M.;Webster D.;3.0;1.0
+2013;1/32-FINALS;Whitlock S.;Muramatsu H.;3.0;0.0
+2013;1/32-FINALS;Lloyd C.;Young D.;3.0;2.0
+2013;1/32-FINALS;Baxter R.;Priestley D.;3.0;1.0
+2013;FINAL;Muramatsu H.;Dave H.;4.0;0.0
+2013;1/32-FINALS;Pipe J.;Jenkins A.;3.0;0.0
+2013;1/32-FINALS;Osborne C.;Ilagan L.;3.0;0.0
+2013;1/32-FINALS;King M.;Winstanley D.;2.0;3.0
+2013;1/32-FINALS;Newton W.;Haines J.;3.0;0.0
+2013;FINAL;Ilagan L.;Lewis J.;4.0;3.0
+2013;1/32-FINALS;Beaton S.;Anderson K.;3.0;0.0
+2013;1/32-FINALS;Caven J.;Bowles J.;2.0;3.0
+2013;1/32-FINALS;Wade J.;Hudson P.;3.0;0.0
+2013;1/32-FINALS;Webster M.;White I.;3.0;1.0
+2013;FINAL;Rodriguez C.;Bowles J.;2.0;4.0
+2013;1/32-FINALS;Wright P.;Monk A.;3.0;0.0
+2013;1/32-FINALS;Anderson G.;Haavisto J.;3.0;1.0
+2013;1/32-FINALS;van Barneveld R.;Smith M.;3.0;0.0
+2013;1/32-FINALS;Hamilton A.;Richardson J.;3.0;1.0
+2013;FINAL;Komula J.;Haavisto J.;2.0;4.0
+2013;1/32-FINALS;Dolan B.;Jones M.;3.0;0.0
+2013;1/32-FINALS;Ovens D.;Hopp M.;3.0;2.0
+2013;1/32-FINALS;Taylor P.;Mansell M.;3.0;0.0
+2013;1/32-FINALS;Part J.;Cullen J.;3.0;0.0
+2013;FINAL;Hopp M.;Charl P.;4.0;1.0
+2013;1/32-FINALS;Chisnall D.;Tichowitsch S.;3.0;0.0
+2013;1/32-FINALS;Smith A.;Gurney D.;1.0;3.0
+2013;1/32-FINALS;Jenkins T.;Brown S.;3.0;0.0
+2013;1/32-FINALS;Burnett R.;Hubbard J.;3.0;2.0
+2013;FINAL;Gurney D.;Marijanovic R.;4.0;3.0
+2013;1/32-FINALS;Jones W.;Hendriks J.;0.0;3.0
+2013;1/32-FINALS;Painter K.;Chen N. L.;3.0;0.0
+2013;1/32-FINALS;Lewis A.;Vos G.;3.0;1.0
+2013;1/32-FINALS;Nicholson P.;Stompe C.;3.0;0.0
+2013;FINAL;Welge A.;Chen N. L.;1.0;4.0
+2013;1/32-FINALS;Thornton R.;Caris M.;3.0;0.0
+2012;FINAL;Hamilton A.;Lewis A.;3.0;7.0
+2012;SEMI-FINALS;Lewis A.;Wade J.;6.0;5.0
+2012;SEMI-FINALS;Hamilton A.;Whitlock S.;6.0;5.0
+2012;QUARTER-FINALS;Lewis A.;Jenkins T.;5.0;3.0
+2012;QUARTER-FINALS;Whitlock S.;Anderson G.;5.0;1.0
+2012;QUARTER-FINALS;Part J.;Wade J.;4.0;5.0
+2012;QUARTER-FINALS;Hamilton A.;Huybrechts K.;5.0;2.0
+2012;1/8-FINALS;Anderson G.;Lloyd C.;4.0;1.0
+2012;1/8-FINALS;Chisnall D.;Hamilton A.;0.0;4.0
+2012;1/8-FINALS;Whitlock S.;van Gerwen M.;4.0;3.0
+2012;1/8-FINALS;Huybrechts K.;Nicholson P.;4.0;1.0
+2012;1/8-FINALS;Wade J.;Farmer S.;4.0;0.0
+2012;1/8-FINALS;Part J.;Painter K.;4.0;2.0
+2012;1/8-FINALS;Pipe J.;Jenkins T.;1.0;4.0
+2012;1/8-FINALS;Lewis A.;Jones W.;4.0;0.0
+2012;1/16-FINALS;Anderson G.;Petersen D.;4.0;2.0
+2012;1/16-FINALS;Lloyd C.;Rand S.;4.0;1.0
+2012;1/16-FINALS;Whitlock S.;Beaton S.;4.0;1.0
+2012;1/16-FINALS;King M.;van Gerwen M.;1.0;4.0
+2012;1/16-FINALS;Nicholson P.;Tabern A.;4.0;0.0
+2012;1/16-FINALS;Taylor P.;Chisnall D.;1.0;4.0
+2012;1/16-FINALS;Richardson J.;Huybrechts K.;1.0;4.0
+2012;1/16-FINALS;Van der Voort V.;Hamilton A.;3.0;4.0
+2012;1/16-FINALS;Burnett R.;Part J.;1.0;4.0
+2012;1/16-FINALS;Jenkins T.;Stompe C.;4.0;1.0
+2012;1/16-FINALS;Farmer S.;Munch K.;4.0;2.0
+2012;1/16-FINALS;Wade J.;Klaasen J.;4.0;0.0
+2012;1/16-FINALS;Walsh M.;Painter K.;3.0;4.0
+2012;1/16-FINALS;Newton W.;Pipe J.;3.0;4.0
+2012;1/16-FINALS;Lewis A.;Thornton R.;4.0;2.0
+2012;1/16-FINALS;Jones W.;Scholten R.;4.0;0.0
+2012;1/32-FINALS;Brown S.;Petersen D.;2.0;3.0
+2012;1/32-FINALS;Whitlock S.;Smith D.;3.0;0.0
+2012;1/32-FINALS;Part J.;Henderson J.;3.0;0.0
+2012;FINAL;Petersen D.;de Sousa J.;4.0;3.0
+2012;1/32-FINALS;Smith A.;Rand S.;0.0;3.0
+2012;1/32-FINALS;Jenkins T.;Cullen J.;3.0;0.0
+2012;1/32-FINALS;Anderson G.;Artut J.;3.0;2.0
+2012;1/32-FINALS;Osborne C.;van Gerwen M.;1.0;3.0
+2012;FINAL;Cullen J.;Ferenc O.;4.0;2.0
+2012;1/32-FINALS;Lloyd C.;Young D.;3.0;1.0
+2012;1/32-FINALS;Wade J.;Korte P.;3.0;1.0
+2012;1/32-FINALS;Painter K.;Monk A.;3.0;1.0
+2012;1/32-FINALS;King M.;Kime G.;3.0;0.0
+2012;FINAL;Laursen P.;Korte P.;3.0;4.0
+2012;1/32-FINALS;Hamilton A.;Alcinas T.;3.0;2.0
+2012;1/32-FINALS;Walsh M.;French W.;3.0;1.0
+2012;1/32-FINALS;van Barneveld R.;Richardson J.;0.0;3.0
+2012;1/32-FINALS;Dudbridge M.;Chisnall D.;0.0;3.0
+2012;1/32-FINALS;Dolan B.;Huybrechts K.;0.0;3.0
+2012;FINAL;Finnan C.;French W.;3.0;4.0
+2012;1/32-FINALS;Ovens D.;Munch K.;0.0;1.0
+2012;1/32-FINALS;Nicholson P.;Suljovic M.;3.0;1.0
+2012;1/32-FINALS;Van der Voort V.;Hylton M.;3.0;2.0
+2012;FINAL;Munch K.;Peng L. Ch.;4.0;2.0
+2012;1/32-FINALS;Beaton S.;Caris M.;3.0;2.0
+2012;1/32-FINALS;Tabern A.;Perez C.;3.0;1.0
+2012;1/32-FINALS;Thornton R.;White I.;3.0;1.0
+2012;1/32-FINALS;Baxter R.;Farmer S.;2.0;3.0
+2012;FINAL;Burger D.;Perez C.;0.0;4.0
+2012;1/32-FINALS;Wright P.;Klaasen J.;1.0;3.0
+2012;1/32-FINALS;Taylor P.;Muramatsu H.;3.0;0.0
+2012;1/32-FINALS;Newton W.;van de Rijk K.;3.0;0.0
+2012;1/32-FINALS;Stompe C.;Smith M.;3.0;0.0
+2012;FINAL;Muramatsu H.;Nilsson D.;4.0;2.0
+2012;1/32-FINALS;Pipe J.;Reed S.;3.0;1.0
+2012;1/32-FINALS;Jones W.;MacKenzie S.;3.0;1.0
+2012;1/32-FINALS;Lewis A.;Heydon N.;3.0;2.0
+2012;1/32-FINALS;Webster M.;Burnett R.;2.0;3.0
+2012;FINAL;Barham P.;MacKenzie S.;2.0;4.0
+2012;1/32-FINALS;Caven J.;Scholten R.;1.0;3.0
+2011;FINAL;Lewis A.;Anderson G.;7.0;5.0
+2011;SEMI-FINALS;Jenkins T.;Anderson G.;2.0;6.0
+2011;SEMI-FINALS;Webster M.;Lewis A.;4.0;6.0
+2011;QUARTER-FINALS;Taylor P.;Webster M.;2.0;5.0
+2011;QUARTER-FINALS;Anderson G.;van Barneveld R.;5.0;1.0
+2011;QUARTER-FINALS;Lewis A.;Van der Voort V.;5.0;2.0
+2011;QUARTER-FINALS;Newton W.;Jenkins T.;4.0;5.0
+2011;1/8-FINALS;Suljovic M.;Newton W.;0.0;4.0
+2011;1/8-FINALS;van Barneveld R.;Osborne C.;4.0;3.0
+2011;1/8-FINALS;Whitlock S.;Van der Voort V.;2.0;4.0
+2011;1/8-FINALS;Jenkins T.;Walsh M.;4.0;0.0
+2011;1/8-FINALS;Smith A.;Anderson G.;0.0;4.0
+2011;1/8-FINALS;Lewis A.;Thornton R.;4.0;1.0
+2011;1/8-FINALS;Taylor P.;Wright P.;4.0;1.0
+2011;1/8-FINALS;Webster M.;Hylton M.;4.0;1.0
+2011;1/16-FINALS;van Barneveld R.;McDine K.;4.0;1.0
+2011;1/16-FINALS;King M.;Smith A.;3.0;4.0
+2011;1/16-FINALS;Anderson G.;Priestley D.;4.0;2.0
+2011;1/16-FINALS;Osborne C.;Caven J.;4.0;0.0
+2011;1/16-FINALS;Wade J.;Suljovic M.;2.0;4.0
+2011;1/16-FINALS;Whitlock S.;Ovens D.;4.0;0.0
+2011;1/16-FINALS;Newton W.;Dolan B.;4.0;0.0
+2011;1/16-FINALS;Jenkins T.;Brown S.;4.0;1.0
+2011;1/16-FINALS;Jones W.;Van der Voort V.;2.0;4.0
+2011;1/16-FINALS;Walsh M.;Tabern A.;4.0;3.0
+2011;1/16-FINALS;Taylor P.;Laursen P.;4.0;0.0
+2011;1/16-FINALS;Lewis A.;Dudbridge M.;4.0;1.0
+2011;1/16-FINALS;Lloyd C.;Hylton M.;2.0;4.0
+2011;1/16-FINALS;Hamilton A.;Thornton R.;0.0;4.0
+2011;1/16-FINALS;Nicholson P.;Wright P.;2.0;4.0
+2011;1/16-FINALS;Baxter R.;Webster M.;0.0;4.0
+2011;1/32-FINALS;King M.;Caris M.;3.0;0.0
+2011;1/32-FINALS;Priestley D.;Roith B.;3.0;0.0
+2011;1/32-FINALS;Walsh M.;Pipe J.;3.0;1.0
+2011;FINAL;Caris M.;Burger D.;4.0;3.0
+2011;1/32-FINALS;Smith A.;Tichowitsch S.;3.0;1.0
+2011;1/32-FINALS;Caven J.;Petersen D.;3.0;1.0
+2011;1/32-FINALS;van Barneveld R.;Hine S.;3.0;1.0
+2011;1/32-FINALS;Bates B.;McDine K.;1.0;3.0
+2011;FINAL;Petersen D.;Madhoo N.;4.0;3.0
+2011;1/32-FINALS;Osborne C.;Thompson C.;3.0;1.0
+2011;1/32-FINALS;Van der Voort V.;Ridd P.;3.0;0.0
+2011;1/32-FINALS;Klaasen J.;Brown S.;1.0;3.0
+2011;1/32-FINALS;Jenkins T.;Cullen J.;3.0;2.0
+2011;FINAL;Mansell M.;Ridd P.;0.0;4.0
+2011;1/32-FINALS;van Gerwen M.;Suljovic M.;1.0;3.0
+2011;1/32-FINALS;Ovens D.;Artut J.;3.0;1.0
+2011;1/32-FINALS;Wade J.;Alcinas T.;3.0;0.0
+2011;1/32-FINALS;Painter K.;Dolan B.;0.0;3.0
+2011;FINAL;Artut J.;MacKenzie S.;4.0;3.0
+2011;1/32-FINALS;Tabern A.;Burnett R.;3.0;2.0
+2011;1/32-FINALS;Part J.;Laursen P.;0.0;3.0
+2011;1/32-FINALS;Newton W.;Young D.;3.0;0.0
+2011;1/32-FINALS;Thornton R.;Heydon N.;3.0;1.0
+2011;FINAL;Laursen P.;Krcmar B.;4.0;2.0
+2011;1/32-FINALS;Jones W.;Shepherd K.;3.0;1.0
+2011;1/32-FINALS;Anderson G.;Hashimoto M.;3.0;0.0
+2011;1/32-FINALS;Whitlock S.;Evans S.;3.0;0.0
+2011;1/32-FINALS;Dudbridge M.;Roy A.;3.0;1.0
+2011;FINAL;Padgett M.;Hashimoto M.;2.0;4.0
+2011;1/32-FINALS;Hamilton A.;Smith D.;3.0;0.0
+2011;1/32-FINALS;Baxter R.;Scholten R.;3.0;0.0
+2011;1/32-FINALS;Lewis A.;Eccles T.;3.0;0.0
+2011;1/32-FINALS;Lloyd C.;Welge A.;3.0;2.0
+2011;FINAL;Scholten R.;Viinikka V.;4.0;2.0
+2011;1/32-FINALS;Stompe C.;Wright P.;1.0;3.0
+2011;1/32-FINALS;Taylor P.;Mawson G.;3.0;0.0
+2011;1/32-FINALS;Webster M.;Maish S.;3.0;0.0
+2011;1/32-FINALS;Beaton S.;Hylton M.;2.0;3.0
+2011;FINAL;Mawson G.;Gionzon J.;4.0;1.0
+2011;1/32-FINALS;Nicholson P.;Farmer S.;3.0;0.0
+2010;FINAL;Taylor P.;Whitlock S.;7.0;3.0
+2010;3RD PLACE;Webster M.;van Barneveld R.;10.0;8.0
+2010;SEMI-FINALS;Taylor P.;Webster M.;6.0;0.0
+2010;SEMI-FINALS;van Barneveld R.;Whitlock S.;5.0;6.0
+2010;QUARTER-FINALS;Taylor P.;Lewis A.;5.0;0.0
+2010;QUARTER-FINALS;van Barneveld R.;Baxter R.;5.0;0.0
+2010;QUARTER-FINALS;Whitlock S.;Wade J.;5.0;3.0
+2010;QUARTER-FINALS;Stompe C.;Webster M.;3.0;5.0
+2010;1/8-FINALS;van Barneveld R.;Painter K.;4.0;1.0
+2010;1/8-FINALS;Wade J.;Hamilton A.;4.0;3.0
+2010;1/8-FINALS;Baxter R.;Lloyd C.;4.0;1.0
+2010;1/8-FINALS;Stompe C.;Dudbridge M.;4.0;2.0
+2010;1/8-FINALS;Jenkins T.;Whitlock S.;2.0;4.0
+2010;1/8-FINALS;Shepherd K.;Webster M.;1.0;4.0
+2010;1/8-FINALS;Lewis A.;McDine K.;4.0;0.0
+2010;1/8-FINALS;Taylor P.;Thornton R.;4.0;1.0
+2010;1/16-FINALS;Wade J.;van Gerwen M.;4.0;2.0
+2010;1/16-FINALS;Whitlock S.;Jones W.;4.0;0.0
+2010;1/16-FINALS;Jenkins T.;Young D.;4.0;0.0
+2010;1/16-FINALS;Hamilton A.;Beaton S.;4.0;1.0
+2010;1/16-FINALS;Baxter R.;Anderson G.;4.0;0.0
+2010;1/16-FINALS;van Barneveld R.;Dolan B.;4.0;0.0
+2010;1/16-FINALS;Webster M.;Manley P.;4.0;2.0
+2010;1/16-FINALS;Painter K.;Van der Voort V.;4.0;3.0
+2010;1/16-FINALS;Part J.;Shepherd K.;1.0;4.0
+2010;1/16-FINALS;Lloyd C.;Ovens D.;4.0;3.0
+2010;1/16-FINALS;Thornton R.;Artut J.;4.0;1.0
+2010;1/16-FINALS;Taylor P.;Hine S.;4.0;0.0
+2010;1/16-FINALS;Tabern A.;Dudbridge M.;3.0;4.0
+2010;1/16-FINALS;Lewis A.;Newton W.;4.0;2.0
+2010;1/16-FINALS;McDine K.;Bates B.;4.0;0.0
+2010;1/16-FINALS;King M.;Stompe C.;2.0;4.0
+2010;1/32-FINALS;Wade J.;Brown S.;3.0;1.0
+2010;1/32-FINALS;van Gerwen M.;Wright P.;3.0;1.0
+2010;;Caris M.;Ruiz F.;4.0;0.0
+2010;1/32-FINALS;Jones W.;Roy A.;3.0;1.0
+2010;1/32-FINALS;Ovens D.;Van der Rassel J.;3.0;1.0
+2010;1/32-FINALS;Osborne C.;Whitlock S.;1.0;3.0
+2010;1/32-FINALS;Beaton S.;Rodriguez C.;3.0;0.0
+2010;;Seyler T.;Yongsheng S.;1.0;4.0
+2010;1/32-FINALS;Smith A.;Young D.;2.0;3.0
+2010;1/32-FINALS;Baxter R.;Muramatsu H.;3.0;0.0
+2010;1/32-FINALS;Jenkins T.;Nicholson P.;3.0;2.0
+2010;1/32-FINALS;Part J.;Greebe T.;3.0;0.0
+2010;;Muramatsu H.;Kciuk K.;4.0;1.0
+2010;1/32-FINALS;Van der Voort V.;Duo D.;3.0;0.0
+2010;1/32-FINALS;Hamilton A.;Kijamet O.;3.0;0.0
+2010;1/32-FINALS;van Barneveld R.;Parry W.;3.0;0.0
+2010;1/32-FINALS;Caven J.;Anderson G.;2.0;3.0
+2010;;Hazel P.;Kijamet O.;2.0;4.0
+2010;1/32-FINALS;Painter K.;Suljovic M.;3.0;1.0
+2010;1/32-FINALS;Tabern A.;MacNeil K.;3.0;2.0
+2010;1/32-FINALS;Walsh M.;Webster M.;2.0;3.0
+2010;1/32-FINALS;Dudbridge M.;Welge A.;3.0;0.0
+2010;1/32-FINALS;Eccles T.;Dolan B.;1.0;3.0
+2010;;MacNeil K.;Madhoo N.;4.0;2.0
+2010;1/32-FINALS;Manley P.;Jenkins A.;3.0;2.0
+2010;1/32-FINALS;Klaasen J.;Bates B.;1.0;3.0
+2010;1/32-FINALS;King M.;Clark M.;3.0;0.0
+2010;1/32-FINALS;Newton W.;Komula J.;3.0;0.0
+2010;1/32-FINALS;Shepherd K.;Burnett S.;3.0;0.0
+2010;1/32-FINALS;Stompe C.;Maish S.;3.0;1.0
+2010;1/32-FINALS;Scholten R.;Hine S.;2.0;3.0
+2010;;Komula J.;Konchikov R.;4.0;3.0
+2010;1/32-FINALS;Thornton R.;Perez C.;3.0;1.0
+2010;1/32-FINALS;Taylor P.;Monk C.;3.0;0.0
+2010;1/32-FINALS;Priestley D.;McDine K.;2.0;3.0
+2010;;Laursen P.;Perez C.;3.0;4.0
+2010;1/32-FINALS;Mardle W.;Artut J.;0.0;3.0
+2009;FINAL;Taylor P.;van Barneveld R.;7.0;1.0
+2009;SEMI-FINALS;Taylor P.;King M.;6.0;2.0
+2009;SEMI-FINALS;van Barneveld R.;Wade J.;6.0;4.0
+2009;QUARTER-FINALS;Nicholson P.;Wade J.;3.0;5.0
+2009;QUARTER-FINALS;van Barneveld R.;Klaasen J.;5.0;1.0
+2009;QUARTER-FINALS;King M.;Bates B.;5.0;2.0
+2009;QUARTER-FINALS;Taylor P.;Stompe C.;5.0;0.0
+2009;1/8-FINALS;Hamilton A.;Klaasen J.;1.0;4.0
+2009;1/8-FINALS;Mardle W.;Stompe C.;0.0;4.0
+2009;1/8-FINALS;Nicholson P.;Priestley D.;4.0;2.0
+2009;1/8-FINALS;Smith D.;King M.;1.0;4.0
+2009;1/8-FINALS;van Barneveld R.;Baxter R.;4.0;3.0
+2009;1/8-FINALS;Wade J.;Van der Voort V.;4.0;0.0
+2009;1/8-FINALS;Bates B.;Dudbridge M.;4.0;0.0
+2009;1/16-FINALS;Lewis A.;Nicholson P.;3.0;4.0
+2009;1/16-FINALS;Osborne C.;Van der Voort V.;1.0;4.0
+2009;1/8-FINALS;Taylor P.;Painter K.;4.0;1.0
+2009;1/16-FINALS;Wade J.;Eccles T.;4.0;2.0
+2009;1/16-FINALS;Baxter R.;Ovens D.;4.0;1.0
+2009;1/16-FINALS;Davis B.;Bates B.;2.0;4.0
+2009;1/16-FINALS;Hamilton A.;Ayres T.;4.0;2.0
+2009;1/16-FINALS;King M.;Walsh M.;4.0;2.0
+2009;1/16-FINALS;Klaasen J.;Van der Rassel J.;4.0;0.0
+2009;1/16-FINALS;van Barneveld R.;Newton W.;4.0;1.0
+2009;1/16-FINALS;Mardle W.;Thornton R.;4.0;3.0
+2009;1/16-FINALS;Priestley D.;Magowan J.;4.0;1.0
+2009;1/16-FINALS;Rodriguez C.;Painter K.;1.0;4.0
+2009;1/16-FINALS;Smith D.;McDine K.;4.0;3.0
+2009;1/16-FINALS;Suljovic M.;Dudbridge M.;0.0;4.0
+2009;1/16-FINALS;Tabern A.;Stompe C.;1.0;4.0
+2009;1/16-FINALS;Taylor P.;van Gerwen M.;4.0;0.0
+2009;1/32-FINALS;Baxter R.;Kantele M.;3.0;1.0
+2009;1/32-FINALS;Eccles T.;Van Eijden R.;3.0;2.0
+2009;1/32-FINALS;Gray A.;Nicholson P.;0.0;3.0
+2009;1/32-FINALS;Osborne C.;Losper C.;3.0;0.0
+2009;1/32-FINALS;Shepherd K.;Van der Rassel J.;2.0;3.0
+2009;1/32-FINALS;Smith A.;Ayres T.;2.0;3.0
+2009;1/32-FINALS;Van der Voort V.;Bezzeg N.;3.0;0.0
+2009;1/32-FINALS;Wade J.;Dolan B.;3.0;0.0
+2009;1/32-FINALS;King M.;Yongsheng S.;3.0;0.0
+2009;1/32-FINALS;Lewis A.;Stewart R.;3.0;1.0
+2009;1/32-FINALS;Lloyd C.;Klaasen J.;0.0;3.0
+2009;1/32-FINALS;Mason C.;Magowan J.;0.0;3.0
+2009;1/32-FINALS;Dudbridge M.;Fullwell N.;3.0;2.0
+2009;1/32-FINALS;Hamilton A.;Barnard M.;3.0;0.0
+2009;1/32-FINALS;Manley P.;Suljovic M.;2.0;3.0
+2009;1/32-FINALS;Mardle W.;Fatum D.;3.0;0.0
+2009;1/32-FINALS;Newton W.;Laursen P.;3.0;1.0
+2009;1/32-FINALS;Ovens D.;Maish S.;3.0;0.0
+2009;1/32-FINALS;van Barneveld R.;Stephenson M.;3.0;0.0
+2009;1/32-FINALS;Walsh M.;Caven J.;3.0;2.0
+2009;1/32-FINALS;Bates B.;McBrearty F.;3.0;0.0
+2009;1/32-FINALS;Jenkins T.;Smith D.;1.0;3.0
+2009;1/32-FINALS;Painter K.;Clark M.;3.0;2.0
+2009;1/32-FINALS;Priestley D.;French W.;3.0;0.0
+2009;1/32-FINALS;Roy A.;McDine K.;1.0;3.0
+2009;1/32-FINALS;Tabern A.;Beaton S.;3.0;0.0
+2009;1/32-FINALS;Taylor P.;Grubb S.;3.0;0.0
+2009;1/32-FINALS;van Gerwen M.;Young D.;3.0;1.0
+2009;1/32-FINALS;Jenkins A.;Stompe C.;1.0;3.0
+2009;1/32-FINALS;Jones W.;Thornton R.;1.0;3.0
+2009;1/32-FINALS;Part J.;Davis B.;0.0;3.0
+2009;1/32-FINALS;Scholten R.;Rodriguez C.;2.0;3.0
+2009;FINAL;Fatum D.;O'Connor S.;;
+2009;FINAL;French W.;Nagakawa A.;;
+2009;FINAL;Kantele M.;Ilagan L.;;
+2009;FINAL;Losper C.;Fitzgerald S.;;
+2009;FINAL;Schnier H.;Yongsheng S.;;
+2009;FINAL;Van Eijden R.;Dobromyslova A.;;
+2008;FINAL;Shepherd K.;Part J.;2.0;7.0
+2008;SEMI-FINALS;Mardle W.;Shepherd K.;4.0;6.0
+2008;SEMI-FINALS;Painter K.;Part J.;2.0;6.0
+2008;QUARTER-FINALS;Manley P.;Shepherd K.;4.0;5.0
+2008;QUARTER-FINALS;Painter K.;Lewis A.;5.0;2.0
+2008;QUARTER-FINALS;Part J.;Wade J.;5.0;4.0
+2008;QUARTER-FINALS;Taylor P.;Mardle W.;4.0;5.0
+2008;1/8-FINALS;Lewis A.;Eccles T.;4.0;3.0
+2008;1/8-FINALS;Manley P.;Van der Rassel J.;4.0;1.0
+2008;1/8-FINALS;Roy A.;Part J.;0.0;4.0
+2008;1/8-FINALS;Shepherd K.;Bates B.;4.0;2.0
+2008;1/8-FINALS;van Barneveld R.;Painter K.;2.0;4.0
+2008;1/8-FINALS;Wade J.;Dudbridge M.;4.0;2.0
+2008;1/16-FINALS;Baxter R.;Dudbridge M.;2.0;4.0
+2008;1/16-FINALS;Hamilton A.;Roy A.;1.0;4.0
+2008;1/16-FINALS;Maish S.;Eccles T.;3.0;4.0
+2008;1/8-FINALS;Scholten R.;Mardle W.;3.0;4.0
+2008;1/8-FINALS;Taylor P.;Tabern A.;4.0;3.0
+2008;1/16-FINALS;Bates B.;Extercatte E.;4.0;3.0
+2008;1/16-FINALS;Lewis A.;Van der Voort V.;4.0;2.0
+2008;1/16-FINALS;Painter K.;Mason C.;4.0;0.0
+2008;1/16-FINALS;Part J.;Suljovic M.;4.0;1.0
+2008;1/16-FINALS;Shepherd K.;McGowan M.;4.0;3.0
+2008;1/16-FINALS;van Barneveld R.;Clark J.;4.0;1.0
+2008;1/16-FINALS;Wade J.;Beaton S.;4.0;3.0
+2008;1/16-FINALS;Jenkins A.;Tabern A.;0.0;4.0
+2008;1/16-FINALS;Manley P.;Warriner-Little A.;4.0;1.0
+2008;1/16-FINALS;Mardle W.;Caven J.;4.0;1.0
+2008;1/16-FINALS;Scholten R.;King M.;4.0;2.0
+2008;1/16-FINALS;Taylor P.;Walsh M.;4.0;3.0
+2008;1/16-FINALS;Van der Rassel J.;Ovens D.;4.0;1.0
+2008;1/32-FINALS;Baxter R.;Olson D.;3.0;2.0
+2008;1/32-FINALS;Beaton S.;Evans S.;3.0;0.0
+2008;1/32-FINALS;Dudbridge M.;Hine S.;3.0;1.0
+2008;1/32-FINALS;Osborne C.;Extercatte E.;1.0;3.0
+2008;1/32-FINALS;Part J.;Losper C.;3.0;1.0
+2008;1/32-FINALS;Smith A.;Suljovic M.;2.0;3.0
+2008;1/32-FINALS;Wade J.;MacArthur S.;3.0;0.0
+2008;1/32-FINALS;Warriner-Little A.;Yongsheng S.;3.0;1.0
+2008;1/32-FINALS;Hamilton A.;Kwadijk L.;3.0;1.0
+2008;1/32-FINALS;Jenkins A.;Navratil M.;3.0;2.0
+2008;1/32-FINALS;Jones W.;Eccles T.;0.0;3.0
+2008;1/32-FINALS;Lewis A.;Askew D.;3.0;1.0
+2008;1/32-FINALS;Priestley D.;Maish S.;1.0;3.0
+2008;1/32-FINALS;Roy A.;Parry W.;3.0;2.0
+2008;1/32-FINALS;van Barneveld R.;Forde A.;3.0;0.0
+2008;1/32-FINALS;Van der Voort V.;Klaasen J.;3.0;2.0
+2008;1/32-FINALS;Anderson B.;Clark J.;2.0;3.0
+2008;1/32-FINALS;Bates B.;Convery G.;3.0;0.0
+2008;1/32-FINALS;Jenkins T.;Shepherd K.;2.0;3.0
+2008;1/32-FINALS;Mason C.;Brown S.;3.0;1.0
+2008;1/32-FINALS;McGowan M.;Barry J.;3.0;0.0
+2008;1/32-FINALS;Newton W.;Caven J.;0.0;3.0
+2008;1/32-FINALS;Ovens D.;Monk C.;3.0;0.0
+2008;1/32-FINALS;Painter K.;Mawson G.;3.0;0.0
+2008;PRELIMINARY ROUND;Barellano R.;Navratil M.;;
+2008;PRELIMINARY ROUND;Bolton A.;Extercatte E.;;
+2008;PRELIMINARY ROUND;Nagakawa A.;Forde A.;;
+2008;PRELIMINARY ROUND;Sayed A.;Yongsheng S.;;
+2008;1/32-FINALS;King M.;Rosenauer M.;3.0;2.0
+2008;1/32-FINALS;Manley P.;Greebe T.;3.0;2.0
+2008;1/32-FINALS;Scholten R.;Clark M.;3.0;2.0
+2008;1/32-FINALS;Taylor P.;van Gerwen M.;3.0;2.0
+2008;1/32-FINALS;Gray A.;Walsh M.;2.0;3.0
+2008;1/32-FINALS;Lloyd C.;Van der Rassel J.;2.0;3.0
+2008;1/32-FINALS;Mardle W.;Carver R.;3.0;2.0
+2008;1/32-FINALS;Tabern A.;Laursen P.;3.0;1.0
+2007;FINAL;van Barneveld R.;Taylor P.;7.0;6.0
+2007;SEMI-FINALS;Taylor P.;Hamilton A.;6.0;0.0
+2007;SEMI-FINALS;van Barneveld R.;Jenkins A.;6.0;0.0
+2007;QUARTER-FINALS;Jenkins A.;Osborne C.;5.0;4.0
+2007;QUARTER-FINALS;Jenkins T.;Hamilton A.;4.0;5.0
+2007;QUARTER-FINALS;Taylor P.;Webster D.;5.0;1.0
+2007;QUARTER-FINALS;van Barneveld R.;Tabern A.;5.0;0.0
+2007;1/8-FINALS;Havenga W.;Webster D.;2.0;4.0
+2007;1/8-FINALS;Jenkins T.;Wade J.;4.0;3.0
+2007;1/8-FINALS;Lewis A.;Jenkins A.;3.0;4.0
+2007;1/8-FINALS;Priestley D.;Hamilton A.;1.0;4.0
+2007;1/8-FINALS;Scholten R.;Osborne C.;2.0;4.0
+2007;1/8-FINALS;Taylor P.;Mason C.;4.0;0.0
+2007;1/8-FINALS;Askew D.;Tabern A.;3.0;4.0
+2007;1/16-FINALS;Jenkins A.;Smith A.;4.0;2.0
+2007;1/16-FINALS;Osborne C.;Newton W.;4.0;2.0
+2007;1/16-FINALS;Priestley D.;Laursen P.;4.0;3.0
+2007;1/16-FINALS;Scholten R.;Roy A.;4.0;3.0
+2007;1/8-FINALS;van Barneveld R.;Vonck R.;4.0;0.0
+2007;1/16-FINALS;Wade J.;Ladley D.;4.0;3.0
+2007;1/16-FINALS;Caves A.;Askew D.;2.0;4.0
+2007;1/16-FINALS;Dudbridge M.;Hamilton A.;3.0;4.0
+2007;1/16-FINALS;Ovens D.;Tabern A.;3.0;4.0
+2007;1/16-FINALS;Taylor P.;McGowan M.;4.0;1.0
+2007;1/16-FINALS;Gray A.;Webster D.;1.0;4.0
+2007;1/16-FINALS;Jenkins T.;Beaton S.;4.0;3.0
+2007;1/16-FINALS;Lewis A.;Jones W.;4.0;3.0
+2007;1/16-FINALS;Lloyd C.;van Barneveld R.;3.0;4.0
+2007;1/16-FINALS;Manley P.;Havenga W.;3.0;4.0
+2007;1/16-FINALS;Mason C.;Part J.;4.0;2.0
+2007;1/16-FINALS;Vonck R.;Cyr B.;4.0;2.0
+2007;1/32-FINALS;Askew D.;Burchell M.;3.0;2.0
+2007;1/32-FINALS;Dudbridge M.;Kuczynski J.;3.0;1.0
+2007;1/32-FINALS;Jenkins A.;Davis B.;3.0;1.0
+2007;1/32-FINALS;Newton W.;Wada T.;3.0;0.0
+2007;1/32-FINALS;Painter K.;Osborne C.;1.0;3.0
+2007;1/32-FINALS;Roy A.;Burnett R.;3.0;0.0
+2007;1/32-FINALS;Scholten R.;Miller R.;3.0;0.0
+2007;1/32-FINALS;Smith A.;Yongsheng S.;3.0;0.0
+2007;1/32-FINALS;Beaton S.;Convery G.;3.0;0.0
+2007;1/32-FINALS;Hamilton A.;Welding G.;3.0;0.0
+2007;1/32-FINALS;Jones W.;Branks I.;3.0;0.0
+2007;1/32-FINALS;Mardle W.;Caves A.;2.0;3.0
+2007;1/32-FINALS;Monk C.;Laursen P.;0.0;3.0
+2007;1/32-FINALS;Priestley D.;Schenk J.;3.0;0.0
+2007;1/32-FINALS;Sams L.;Ladley D.;1.0;3.0
+2007;1/32-FINALS;Wade J.;French W.;3.0;1.0
+2007;1/32-FINALS;Anderson B.;Webster D.;1.0;3.0
+2007;1/32-FINALS;Bates B.;Cyr B.;2.0;3.0
+2007;1/32-FINALS;Lewis A.;Fleet A.;3.0;0.0
+2007;1/32-FINALS;Lloyd C.;Seyler T.;3.0;0.0
+2007;1/32-FINALS;Ovens D.;Smith S.;3.0;0.0
+2007;1/32-FINALS;van Barneveld R.;Clegg M.;3.0;0.0
+2007;1/32-FINALS;Walsh M.;Vonck R.;0.0;3.0
+2007;1/32-FINALS;Warriner-Little A.;Tabern A.;0.0;3.0
+2007;1/32-FINALS;Baxter R.;Gray A.;2.0;3.0
+2007;1/32-FINALS;Clark M.;McGowan M.;1.0;3.0
+2007;1/32-FINALS;Jenkins T.;Lawrence M.;3.0;1.0
+2007;1/32-FINALS;Maish S.;Havenga W.;2.0;3.0
+2007;1/32-FINALS;Manley P.;Jowett D.;3.0;0.0
+2007;1/32-FINALS;Mason C.;Atwood W.;3.0;0.0
+2007;1/32-FINALS;Part J.;Green A.;3.0;2.0
+2007;1/32-FINALS;Taylor P.;Pein A.;3.0;0.0
+2006;FINAL;Manley P.;Taylor P.;0.0;7.0
+2006;SEMI-FINALS;Jones W.;Manley P.;0.0;6.0
+2006;SEMI-FINALS;Taylor P.;Mardle W.;6.0;5.0
+2006;QUARTER-FINALS;Manley P.;Lewis A.;5.0;3.0
+2006;QUARTER-FINALS;Mardle W.;Warriner-Little A.;5.0;0.0
+2006;QUARTER-FINALS;Taylor P.;Painter K.;5.0;1.0
+2006;QUARTER-FINALS;Welding G.;Jones W.;0.0;5.0
+2006;1/8-FINALS;Manley P.;Smith D.;4.0;3.0
+2006;1/8-FINALS;Mardle W.;Part J.;4.0;2.0
+2006;1/8-FINALS;Painter K.;Dudbridge M.;4.0;1.0
+2006;1/8-FINALS;Scholten R.;Lewis A.;3.0;4.0
+2006;1/8-FINALS;Smith A.;Warriner-Little A.;2.0;4.0
+2006;1/8-FINALS;Taylor P.;Hamilton A.;4.0;0.0
+2006;1/16-FINALS;Carver R.;Smith A.;3.0;4.0
+2006;1/16-FINALS;Jenkins T.;Hamilton A.;1.0;4.0
+2006;1/8-FINALS;Jones W.;Alker S.;4.0;1.0
+2006;1/16-FINALS;Mardle W.;Clarys E.;4.0;1.0
+2006;1/16-FINALS;Part J.;Mason C.;4.0;3.0
+2006;1/16-FINALS;Warriner-Little A.;Convery G.;4.0;0.0
+2006;1/8-FINALS;Welding G.;Kuczynski J.;4.0;2.0
+2006;1/16-FINALS;Dudbridge M.;Tabern A.;4.0;0.0
+2006;1/16-FINALS;Ovens D.;Alker S.;1.0;4.0
+2006;1/16-FINALS;Painter K.;Newton W.;4.0;3.0
+2006;1/16-FINALS;Priestley D.;Lewis A.;2.0;4.0
+2006;1/16-FINALS;Scholten R.;Seyler T.;4.0;2.0
+2006;1/16-FINALS;Taylor P.;Clark M.;4.0;1.0
+2006;1/16-FINALS;Walsh M.;Smith D.;0.0;4.0
+2006;1/16-FINALS;Jenkins A.;Jones W.;3.0;4.0
+2006;1/16-FINALS;Kuczynski J.;Van der Rassel J.;4.0;3.0
+2006;1/16-FINALS;Manley P.;Clark J.;4.0;3.0
+2006;1/16-FINALS;Welding G.;Extercatte E.;4.0;1.0
+2006;1/32-FINALS;Askew D.;Convery G.;0.0;3.0
+2006;1/32-FINALS;Clarys E.;Cadogan W.;3.0;0.0
+2006;1/32-FINALS;Harvey J.;Seyler T.;0.0;3.0
+2006;1/32-FINALS;Mason C.;Hine S.;3.0;1.0
+2006;1/32-FINALS;Monk C.;Smith A.;0.0;3.0
+2006;1/32-FINALS;Painter K.;Newton D.;3.0;1.0
+2006;1/32-FINALS;Roy A.;Tabern A.;2.0;3.0
+2006;1/32-FINALS;Warriner-Little A.;Welge A.;3.0;0.0
+2006;1/32-FINALS;Anderson B.;Hamilton A.;2.0;3.0
+2006;1/32-FINALS;Baxter R.;Carver R.;2.0;3.0
+2006;1/32-FINALS;Clark M.;Woods K.;3.0;0.0
+2006;1/32-FINALS;Dudbridge M.;Young D.;3.0;0.0
+2006;1/32-FINALS;Jenkins T.;Mann J.;3.0;2.0
+2006;1/32-FINALS;Mardle W.;Roach B.;3.0;1.0
+2006;1/32-FINALS;Ovens D.;Wylie G.;3.0;1.0
+2006;1/32-FINALS;Priestley D.;Magowan J.;3.0;1.0
+2006;1/32-FINALS;Jenkins A.;Bulen P.;3.0;1.0
+2006;1/32-FINALS;Lloyd C.;Welding G.;2.0;3.0
+2006;1/32-FINALS;Manley P.;Spiolek K.;3.0;0.0
+2006;1/32-FINALS;Sams L.;Kuczynski J.;0.0;3.0
+2006;1/32-FINALS;Scholten R.;Whitcombe D.;3.0;1.0
+2006;1/32-FINALS;Smith D.;Salmon M.;3.0;2.0
+2006;1/32-FINALS;Walsh M.;Parry W.;3.0;0.0
+2006;1/32-FINALS;Webster D.;Extercatte E.;2.0;3.0
+2006;1/32-FINALS;Beaton S.;Van der Rassel J.;0.0;3.0
+2006;1/32-FINALS;Caves A.;Alker S.;1.0;3.0
+2006;1/32-FINALS;Lewis A.;Honey D.;3.0;0.0
+2006;1/32-FINALS;Maish S.;Clark J.;2.0;3.0
+2006;1/32-FINALS;Newton W.;Matsunaga Y.;3.0;0.0
+2006;1/32-FINALS;Part J.;Liu C. A.;3.0;0.0
+2006;1/32-FINALS;Taylor P.;Platt D.;3.0;0.0
+2006;1/32-FINALS;Wade J.;Jones W.;2.0;3.0
+2005;FINAL;Dudbridge M.;Taylor P.;4.0;7.0
+2005;SEMI-FINALS;Mardle W.;Dudbridge M.;4.0;6.0
+2005;SEMI-FINALS;Taylor P.;Anderson B.;6.0;2.0
+2005;QUARTER-FINALS;Anderson B.;Hamilton A.;5.0;1.0
+2005;QUARTER-FINALS;Lloyd C.;Mardle W.;4.0;5.0
+2005;QUARTER-FINALS;Ovens D.;Dudbridge M.;3.0;5.0
+2005;QUARTER-FINALS;Taylor P.;Painter K.;5.0;1.0
+2005;1/8-FINALS;Baxter R.;Anderson B.;2.0;4.0
+2005;1/8-FINALS;Painter K.;Jenkins A.;4.0;3.0
+2005;1/8-FINALS;Schenk J.;Hamilton A.;1.0;4.0
+2005;1/16-FINALS;Baxter R.;Jenkins T.;4.0;2.0
+2005;1/16-FINALS;Beaton S.;Hamilton A.;2.0;4.0
+2005;1/8-FINALS;Lloyd C.;Mason C.;4.0;3.0
+2005;1/8-FINALS;Mardle W.;Williams P.;4.0;3.0
+2005;1/8-FINALS;Part J.;Dudbridge M.;2.0;4.0
+2005;1/8-FINALS;Scholten R.;Ovens D.;2.0;4.0
+2005;1/8-FINALS;Taylor P.;Priestley D.;4.0;0.0
+2005;1/16-FINALS;Askew D.;Mason C.;3.0;4.0
+2005;1/16-FINALS;Jenkins A.;Evison P.;4.0;0.0
+2005;1/16-FINALS;Manley P.;Schenk J.;2.0;4.0
+2005;1/16-FINALS;Painter K.;Jones W.;4.0;2.0
+2005;1/16-FINALS;Priestley D.;Sams L.;4.0;1.0
+2005;1/16-FINALS;Smith D.;Anderson B.;2.0;4.0
+2005;1/16-FINALS;Taylor P.;Roy A.;4.0;0.0
+2005;1/16-FINALS;Dudbridge M.;Burnett R.;4.0;3.0
+2005;1/16-FINALS;Lloyd C.;Verwey J.;4.0;1.0
+2005;1/16-FINALS;Mardle W.;Walsh M.;4.0;2.0
+2005;1/16-FINALS;Ovens D.;Holden M.;4.0;1.0
+2005;1/16-FINALS;Part J.;Convery G.;4.0;1.0
+2005;1/16-FINALS;Scholten R.;Harvey J.;4.0;2.0
+2005;1/16-FINALS;Warriner-Little A.;Williams P.;1.0;4.0
+2005;FINAL;Caves A.;Schenk J.;0.0;3.0
+2005;FINAL;Deller K.;Jones W.;1.0;3.0
+2005;FINAL;Evison P.;Landers M.;3.0;0.0
+2005;SEMI-FINALS;Jouannet B.;Jones W.;0.0;3.0
+2005;FINAL;Lowe J.;Verwey J.;2.0;3.0
+2005;FINAL;Manning M.;Hamilton A.;0.0;3.0
+2005;FINAL;Mason C.;Clark J.;3.0;1.0
+2005;FINAL;Newton W.;Convery G.;0.0;3.0
+2005;FINAL;Whatley S.;Holden M.;0.0;3.0
+2005;SEMI-FINALS;Clark J.;Matsunaga Y.;3.0;0.0
+2005;SEMI-FINALS;Holden M.;Wade J.;3.0;0.0
+2005;SEMI-FINALS;Jun T.;Convery G.;0.0;3.0
+2005;SEMI-FINALS;Landers M.;Reynolds A.;3.0;2.0
+2005;SEMI-FINALS;Thomson M.;Hamilton A.;0.0;3.0
+2005;SEMI-FINALS;Verwey J.;Forde A.;3.0;2.0
+2005;SEMI-FINALS;Young D.;Schenk J.;2.0;3.0
+2004;FINAL;Taylor P.;Painter K.;7.0;6.0
+2004;SEMI-FINALS;Anderson B.;Painter K.;0.0;6.0
+2004;SEMI-FINALS;Taylor P.;Mardle W.;6.0;2.0
+2004;QUARTER-FINALS;Manley P.;Anderson B.;2.0;5.0
+2004;QUARTER-FINALS;Mardle W.;Whatley S.;5.0;1.0
+2004;QUARTER-FINALS;Painter K.;Dudbridge M.;5.0;1.0
+2004;QUARTER-FINALS;Taylor P.;Warriner-Little A.;5.0;1.0
+2004;1/8-FINALS;Anderson B.;Smith D.;4.0;3.0
+2004;1/8-FINALS;Baxter R.;Painter K.;2.0;4.0
+2004;1/8-FINALS;Beaton S.;Dudbridge M.;1.0;4.0
+2004;1/8-FINALS;Lloyd C.;Mardle W.;3.0;4.0
+2004;1/8-FINALS;Manley P.;Deller K.;4.0;2.0
+2004;1/8-FINALS;Taylor P.;Priestley D.;4.0;1.0
+2004;1/8-FINALS;Warriner-Little A.;Roy A.;4.0;3.0
+2004;1/8-FINALS;Whatley S.;Sams L.;4.0;1.0
+2004;1/16-FINALS;Ovens D.;Roy A.;3.0;4.0
+2004;1/16-FINALS;Warriner-Little A.;Lowe J.;4.0;3.0
+2004;1/16-FINALS;Burnett R.;Whatley S.;3.0;4.0
+2004;1/16-FINALS;Harvey J.;Beaton S.;0.0;4.0
+2004;1/16-FINALS;Lloyd C.;Evison P.;4.0;1.0
+2004;1/16-FINALS;Mardle W.;Maish S.;4.0;2.0
+2004;1/16-FINALS;Priestley D.;Buckle R.;4.0;3.0
+2004;1/16-FINALS;Scholten R.;Sams L.;2.0;4.0
+2004;1/16-FINALS;Taylor P.;McGarry C.;4.0;0.0
+2004;1/16-FINALS;Askew D.;Deller K.;3.0;4.0
+2004;1/16-FINALS;Baxter R.;Clarys E.;4.0;2.0
+2004;1/16-FINALS;Jenkins A.;Anderson B.;1.0;4.0
+2004;1/16-FINALS;Manley P.;Atwood W.;4.0;3.0
+2004;1/16-FINALS;Painter K.;Williams P.;4.0;3.0
+2004;1/16-FINALS;Part J.;Dudbridge M.;3.0;4.0
+2004;1/16-FINALS;Smith D.;Fitton L.;4.0;2.0
+2004;FINAL;Atwood W.;Manning M.;3.0;0.0
+2004;FINAL;Buckle R.;Brown S.;3.0;0.0
+2004;FINAL;Clarys E.;Walsh M.;3.0;0.0
+2004;FINAL;MacKay A.;Sams L.;2.0;3.0
+2004;FINAL;Maish S.;Lazarenko C.;3.0;1.0
+2004;FINAL;McGarry C.;Holden M.;3.0;0.0
+2004;FINAL;Smith S.;Dudbridge M.;0.0;3.0
+2004;FINAL;Widdows R.;Whatley S.;1.0;3.0
+2004;SEMI-FINALS;Atwood W.;Sano T.;3.0;0.0
+2004;SEMI-FINALS;Buckle R.;Van der Rassel J.;3.0;1.0
+2004;SEMI-FINALS;Clarys E.;Lauby D. Sr.;3.0;0.0
+2004;SEMI-FINALS;MacKay A.;Jouannet B.;3.0;2.0
+2004;SEMI-FINALS;Maish S.;Payne T.;3.0;0.0
+2004;SEMI-FINALS;McGarry C.;Orvis R.;3.0;0.0
+2004;SEMI-FINALS;Smith S.;Madhoo N.;3.0;1.0
+2004;SEMI-FINALS;Widdows R.;O'Neill H.;3.0;2.0
+2003;FINAL;Taylor P.;Part J.;6.0;7.0
+2003;SEMI-FINALS;Painter K.;Part J.;4.0;6.0
+2003;SEMI-FINALS;Taylor P.;Warriner-Little A.;6.0;1.0
+2003;QUARTER-FINALS;Mason C.;Part J.;0.0;5.0
+2003;QUARTER-FINALS;Painter K.;Burnett R.;5.0;2.0
+2003;QUARTER-FINALS;Scholten R.;Warriner-Little A.;2.0;5.0
+2003;QUARTER-FINALS;Taylor P.;Smith D.;5.0;3.0
+2003;1/8-FINALS;Baxter R.;Painter K.;3.0;5.0
+2003;1/8-FINALS;Burnett R.;Whitlock S.;5.0;3.0
+2003;1/8-FINALS;Harvey J.;Part J.;3.0;5.0
+2003;1/8-FINALS;Lloyd C.;Mason C.;1.0;5.0
+2003;1/8-FINALS;Fitton L.;Warriner-Little A.;4.0;5.0
+2003;1/8-FINALS;Ovens D.;Smith D.;1.0;5.0
+2003;1/8-FINALS;Scholten R.;Askew D.;5.0;0.0
+2003;1/8-FINALS;Taylor P.;Mardle W.;5.0;3.0
+2003;1/16-FINALS;Baxter R.;Manning M.;4.0;1.0
+2003;1/16-FINALS;Burnett R.;Deller K.;4.0;3.0
+2003;1/16-FINALS;Jenkins A.;Mason C.;2.0;4.0
+2003;1/16-FINALS;Lloyd C.;Anderson B.;4.0;3.0
+2003;1/16-FINALS;Manley P.;Whitlock S.;1.0;4.0
+2003;1/16-FINALS;Painter K.;Harding R.;4.0;1.0
+2003;1/16-FINALS;Askew D.;Beaton S.;4.0;3.0
+2003;1/16-FINALS;Lowe J.;Fitton L.;1.0;4.0
+2003;1/16-FINALS;Ovens D.;Roy A.;4.0;1.0
+2003;1/16-FINALS;Part J.;Lazarenko C.;4.0;1.0
+2003;1/16-FINALS;Scholten R.;Burgess S.;4.0;1.0
+2003;1/16-FINALS;Warriner-Little A.;Harrington R.;4.0;2.0
+2003;1/16-FINALS;Evison P.;Mardle W.;3.0;4.0
+2003;1/16-FINALS;Harvey J.;Holden M.;4.0;1.0
+2003;1/16-FINALS;Smith D.;Priestley D.;4.0;1.0
+2003;1/16-FINALS;Taylor P.;Brown S.;4.0;1.0
+2003;FINAL;Anderson B.;Hedman A.;4.0;0.0
+2003;FINAL;Manning M.;Palfreyman L.;4.0;2.0
+2003;FINAL;Brown S.;Platt D.;4.0;2.0
+2003;FINAL;Burgess S.;Moen A.;4.0;2.0
+2003;FINAL;Harding R.;Robinson M.;4.0;3.0
+2003;FINAL;Holden M.;Smith D.;4.0;3.0
+2003;FINAL;Mardle W.;Carver R.;4.0;0.0
+2003;FINAL;Whitlock S.;Williams P.;4.0;2.0
+2002;FINAL;Manley P.;Taylor P.;0.0;7.0
+2002;SEMI-FINALS;Askew D.;Taylor P.;0.0;6.0
+2002;SEMI-FINALS;Lloyd C.;Manley P.;4.0;6.0
+2002;QUARTER-FINALS;Baxter R.;Manley P.;2.0;6.0
+2002;QUARTER-FINALS;Lloyd C.;Burnett R.;6.0;4.0
+2002;QUARTER-FINALS;Part J.;Taylor P.;0.0;6.0
+2002;QUARTER-FINALS;Priestley D.;Askew D.;2.0;6.0
+2002;1/8-FINALS;Askew D.;Scholten R.;6.0;3.0
+2002;1/8-FINALS;Burgess S.;Taylor P.;1.0;6.0
+2002;1/8-FINALS;Harrington R.;Priestley D.;3.0;6.0
+2002;1/8-FINALS;Lowe J.;Manley P.;5.0;6.0
+2002;1/8-FINALS;Ovens D.;Burnett R.;4.0;6.0
+2002;1/8-FINALS;Part J.;Beaton S.;6.0;0.0
+2002;1/8-FINALS;Smith D.;Baxter R.;1.0;6.0
+2002;1/8-FINALS;Warriner-Little A.;Lloyd C.;4.0;6.0
+2002;1/16-FINALS;Askew D.;Mason C.;4.0;3.0
+2002;1/16-FINALS;Baxter R.;Painter K.;4.0;2.0
+2002;1/16-FINALS;Beaton S.;Anderson B.;4.0;3.0
+2002;1/16-FINALS;Burnett R.;Evison P.;4.0;1.0
+2002;1/16-FINALS;Harrington R.;Deller K.;4.0;3.0
+2002;1/16-FINALS;Harvey J.;Burgess S.;3.0;4.0
+2002;1/16-FINALS;Lowe J.;Fitton L.;4.0;1.0
+2002;1/16-FINALS;Manley P.;Brown S.;4.0;1.0
+2002;1/16-FINALS;Ovens D.;Jenkins A.;4.0;3.0
+2002;1/16-FINALS;Part J.;Manning M.;4.0;2.0
+2002;1/16-FINALS;Priestley D.;Chapman M.;4.0;1.0
+2002;1/16-FINALS;Roy A.;Lloyd C.;2.0;4.0
+2002;1/16-FINALS;Scholten R.;Lazarenko C.;4.0;1.0
+2002;1/16-FINALS;Smith D.;Lim P.;4.0;0.0
+2002;1/16-FINALS;Taylor P.;Williams P.;4.0;1.0
+2002;1/16-FINALS;Warriner-Little A.;Harding R.;4.0;2.0
+2001;FINAL;Taylor P.;Part J.;7.0;0.0
+2001;SEMI-FINALS;Askew D.;Taylor P.;0.0;6.0
+2001;SEMI-FINALS;Harrington R.;Part J.;5.0;6.0
+2001;QUARTER-FINALS;Deller K.;Taylor P.;0.0;4.0
+2001;QUARTER-FINALS;Harvey J.;Askew D.;0.0;4.0
+2001;QUARTER-FINALS;Part J.;Warriner-Little A.;4.0;1.0
+2001;QUARTER-FINALS;Scholten R.;Harrington R.;2.0;4.0
+2001;1/8-FINALS;Deller K.;Burnett R.;3.0;2.0
+2001;1/8-FINALS;Fitton L.;Taylor P.;1.0;3.0
+2001;1/8-FINALS;Harvey J.;Lowe J.;3.0;0.0
+2001;1/8-FINALS;Lim P.;Warriner-Little A.;2.0;3.0
+2001;1/8-FINALS;Part J.;Smith D.;3.0;2.0
+2001;1/8-FINALS;Roy A.;Askew D.;2.0;3.0
+2001;1/8-FINALS;Scholten R.;Lazarenko C.;3.0;0.0
+2001;1/8-FINALS;Stoddart G.;Harrington R.;0.0;3.0
+2001;1/16-FINALS;Burgess S.;Scholten R.;0.0;3.0
+2001;1/16-FINALS;Harrington R.;Anderson B.;3.0;1.0
+2001;1/16-FINALS;Lazarenko C.;Cummings S.;3.0;0.0
+2001;1/16-FINALS;Lim P.;Lauby D. Sr.;3.0;1.0
+2001;1/16-FINALS;Part J.;Lloyd C.;3.0;0.0
+2001;1/16-FINALS;Smith D.;Evison P.;3.0;0.0
+2001;1/16-FINALS;Stoddart G.;King G.;3.0;1.0
+2001;1/16-FINALS;Warriner-Little A.;Harding R.;3.0;0.0
+2001;1/16-FINALS;Askew D.;Manning M.;3.0;2.0
+2001;1/16-FINALS;Burnett R.;Brown S.;3.0;0.0
+2001;1/16-FINALS;Fitton L.;Ovens D.;3.0;1.0
+2001;1/16-FINALS;Lowe J.;Spedding G.;3.0;1.0
+2001;1/16-FINALS;Manley P.;Harvey J.;2.0;3.0
+2001;1/16-FINALS;Priestley D.;Deller K.;2.0;3.0
+2001;1/16-FINALS;Roy A.;Raw S.;3.0;2.0
+2001;1/16-FINALS;Taylor P.;Justice N.;3.0;0.0
+2000;FINAL;Priestley D.;Taylor P.;3.0;7.0
+2000;SEMI-FINALS;Manley P.;Priestley D.;2.0;5.0
+2000;SEMI-FINALS;Smith D.;Taylor P.;0.0;5.0
+2000;QUARTER-FINALS;Lowe J.;Smith D.;3.0;5.0
+2000;QUARTER-FINALS;Manley P.;Evison P.;5.0;1.0
+2000;QUARTER-FINALS;Priestley D.;Burgess S.;5.0;4.0
+2000;QUARTER-FINALS;Warriner-Little A.;Taylor P.;0.0;5.0
+2000;1/8-FINALS;Justice N.;Burgess S.;0.0;3.0
+2000;1/8-FINALS;Lowe J.;Deller K.;3.0;2.0
+2000;1/8-FINALS;Manley P.;Brown S.;3.0;1.0
+2000;1/8-FINALS;Priestley D.;Harvey J.;3.0;2.0
+2000;1/8-FINALS;Raw S.;Evison P.;1.0;3.0
+2000;1/8-FINALS;Smith D.;Part J.;3.0;0.0
+2000;1/8-FINALS;Stoddart G.;Taylor P.;0.0;3.0
+2000;1/8-FINALS;Warriner-Little A.;Roy A.;3.0;0.0
+2000;1/16-FINALS;Brown S.;Bristow E.;3.0;2.0
+2000;1/16-FINALS;Burgess S.;Lloyd C.;3.0;0.0
+2000;1/16-FINALS;Deller K.;Mawson G.;3.0;0.0
+2000;1/16-FINALS;Evison P.;Verrier G.;3.0;0.0
+2000;1/16-FINALS;Harrington R.;Lowe J.;2.0;3.0
+2000;1/16-FINALS;Harvey J.;Spiolek K.;3.0;2.0
+2000;1/16-FINALS;Justice N.;Allsopp D.;3.0;0.0
+2000;1/16-FINALS;Manley P.;Anderson B.;3.0;0.0
+2000;1/16-FINALS;Part J.;Bunyard J.;3.0;0.0
+2000;1/16-FINALS;Priestley D.;Roncero B.;3.0;2.0
+2000;1/16-FINALS;Raw S.;Cummings S.;3.0;2.0
+2000;1/16-FINALS;Roy A.;Harding R.;3.0;0.0
+2000;1/16-FINALS;Smith D.;Lazarenko C.;3.0;1.0
+2000;1/16-FINALS;Stoddart G.;Lauby D. Sr.;3.0;2.0
+2000;1/16-FINALS;Taylor P.;Manning M.;3.0;0.0
+2000;1/16-FINALS;Warriner-Little A.;Lim P.;3.0;0.0
+1999;FINAL;Manley P.;Taylor P.;2.0;6.0
+1999;SEMI-FINALS;Burgess S.;Manley P.;4.0;5.0
+1999;SEMI-FINALS;Taylor P.;Warriner-Little A.;5.0;3.0
+1999;QUARTER-FINALS;Burgess S.;Lazarenko C.;4.0;1.0
+1999;QUARTER-FINALS;Smith D.;Manley P.;0.0;4.0
+1999;QUARTER-FINALS;Taylor P.;Anderson B.;4.0;0.0
+1999;QUARTER-FINALS;Warriner-Little A.;Ferrell J.;4.0;1.0
+1999;1/8-FINALS;Anderson B.;Harvey J.;3.0;2.0
+1999;1/8-FINALS;Brown S.;Lazarenko C.;0.0;3.0
+1999;1/8-FINALS;Ferrell J.;Mawson G.;3.0;2.0
+1999;1/8-FINALS;Harrington R.;Burgess S.;1.0;3.0
+1999;1/8-FINALS;Manley P.;Stoddart G.;3.0;0.0
+1999;1/8-FINALS;Smith D.;Manning M.;3.0;1.0
+1999;1/8-FINALS;Taylor P.;Lowe J.;3.0;1.0
+1999;1/8-FINALS;Warriner-Little A.;Robinson H.;3.0;2.0
+1999;1/16-FINALS;Allsopp D.;Lazarenko C.;0.0;3.0
+1999;1/16-FINALS;Brown S.;Spiolek K.;3.0;1.0
+1999;1/16-FINALS;Burgess S.;Cummings S.;3.0;0.0
+1999;1/16-FINALS;Deller K.;Anderson B.;2.0;3.0
+1999;1/16-FINALS;Downs S.;Robinson H.;2.0;3.0
+1999;1/16-FINALS;Evison P.;Smith D.;0.0;3.0
+1999;1/16-FINALS;Harrington R.;Roy A.;3.0;0.0
+1999;1/16-FINALS;Lauby D. Sr.;Manning M.;1.0;3.0
+1999;1/16-FINALS;Lowe J.;Lim P.;3.0;0.0
+1999;1/16-FINALS;Manley P.;Bristow E.;3.0;0.0
+1999;1/16-FINALS;Mawson G.;Gardner R.;3.0;0.0
+1999;1/16-FINALS;Priestley D.;Ferrell J.;0.0;3.0
+1999;1/16-FINALS;Raw S.;Stoddart G.;1.0;3.0
+1999;1/16-FINALS;Taylor P.;Harding R.;3.0;0.0
+1999;1/16-FINALS;Verrier G.;Harvey J.;1.0;3.0
+1999;1/16-FINALS;Warriner-Little A.;Part J.;3.0;0.0
+1998;FINAL;Taylor P.;Priestley D.;6.0;0.0
+1998;3RD PLACE;Harrington R.;Deller K.;4.0;1.0
+1998;SEMI-FINALS;Priestley D.;Deller K.;5.0;1.0
+1998;SEMI-FINALS;Taylor P.;Harrington R.;5.0;2.0
+1998;QUARTER-FINALS;Deller K.;Robinson H.;4.0;1.0
+1998;QUARTER-FINALS;Harrington R.;Evison P.;4.0;0.0
+1998;QUARTER-FINALS;Priestley D.;Manley P.;4.0;3.0
+1998;QUARTER-FINALS;Taylor P.;Burgess S.;4.0;0.0
+1998;QUARTER-FINALS;Anderson B.;Verrier G.;3.0;1.0
+1998;QUARTER-FINALS;Bristow E.;Raw S.;0.0;3.0
+1998;QUARTER-FINALS;Brown S.;Robinson H.;3.0;2.0
+1998;QUARTER-FINALS;Burgess S.;Anderson B.;3.0;0.0
+1998;QUARTER-FINALS;Burgess S.;Verrier G.;3.0;0.0
+1998;QUARTER-FINALS;Deller K.;Manning M.;2.0;3.0
+1998;QUARTER-FINALS;Deller K.;Stoddart G.;3.0;1.0
+1998;QUARTER-FINALS;Evison P.;Lim P.;3.0;0.0
+1998;QUARTER-FINALS;Evison P.;Part J.;3.0;2.0
+1998;QUARTER-FINALS;Harrington R.;Ferrell J.;3.0;0.0
+1998;QUARTER-FINALS;Harrington R.;Harvey J.;3.0;2.0
+1998;QUARTER-FINALS;Harvey J.;Ferrell J.;3.0;0.0
+1998;QUARTER-FINALS;Lim P.;Part J.;1.0;3.0
+1998;QUARTER-FINALS;Manley P.;Lowe J.;3.0;0.0
+1998;QUARTER-FINALS;Manley P.;Mawson G.;3.0;0.0
+1998;QUARTER-FINALS;Manning M.;Stoddart G.;0.0;3.0
+1998;QUARTER-FINALS;Mawson G.;Lowe J.;0.0;3.0
+1998;QUARTER-FINALS;Priestley D.;Bristow E.;3.0;0.0
+1998;QUARTER-FINALS;Priestley D.;Raw S.;3.0;0.0
+1998;QUARTER-FINALS;Smith D.;Spiolek K.;3.0;1.0
+1998;QUARTER-FINALS;Taylor P.;Smith D.;3.0;0.0
+1998;QUARTER-FINALS;Taylor P.;Spiolek K.;3.0;0.0
+1998;QUARTER-FINALS;Warriner-Little A.;Brown S.;3.0;1.0
+1998;QUARTER-FINALS;Warriner-Little A.;Robinson H.;0.0;3.0
+1997;FINAL;Taylor P.;Priestley D.;6.0;3.0
+1997;3RD PLACE;Bristow E.;Evison P.;2.0;4.0
+1997;SEMI-FINALS;Bristow E.;Taylor P.;4.0;5.0
+1997;SEMI-FINALS;Evison P.;Priestley D.;4.0;5.0
+1997;QUARTER-FINALS;Bristow E.;Warriner-Little A.;5.0;3.0
+1997;QUARTER-FINALS;Deller K.;Taylor P.;1.0;5.0
+1997;QUARTER-FINALS;Evison P.;Harvey J.;5.0;3.0
+1997;QUARTER-FINALS;Harrington R.;Priestley D.;2.0;5.0
+1997;QUARTER-FINALS;Anderson B.;Bristow E.;1.0;3.0
+1997;QUARTER-FINALS;Anderson B.;Mawson G.;3.0;1.0
+1997;QUARTER-FINALS;Bristow E.;Mawson G.;1.0;3.0
+1997;QUARTER-FINALS;Burgess S.;Downs S.;1.0;3.0
+1997;QUARTER-FINALS;Burgess S.;Harrington R.;3.0;2.0
+1997;QUARTER-FINALS;Downs S.;Harrington R.;1.0;3.0
+1997;QUARTER-FINALS;Evison P.;Lazarenko C.;3.0;0.0
+1997;QUARTER-FINALS;Evison P.;Raw S.;3.0;1.0
+1997;QUARTER-FINALS;Gardner R.;Brown S.;2.0;3.0
+1997;QUARTER-FINALS;Harvey J.;Lim P.;3.0;2.0
+1997;QUARTER-FINALS;Harvey J.;Lowe J.;3.0;2.0
+1997;QUARTER-FINALS;Lazarenko C.;Raw S.;1.0;3.0
+1997;QUARTER-FINALS;Lowe J.;Lim P.;3.0;1.0
+1997;QUARTER-FINALS;Priestley D.;Brown S.;3.0;0.0
+1997;QUARTER-FINALS;Priestley D.;Gardner R.;3.0;1.0
+1997;QUARTER-FINALS;Smith D.;Deller K.;2.0;3.0
+1997;QUARTER-FINALS;Spiolek K.;Deller K.;0.0;3.0
+1997;QUARTER-FINALS;Spiolek K.;Smith D.;0.0;3.0
+1997;QUARTER-FINALS;Stoddart G.;Butler L.;3.0;1.0
+1997;QUARTER-FINALS;Taylor P.;Mason C.;3.0;0.0
+1997;QUARTER-FINALS;Taylor P.;Verrier G.;3.0;0.0
+1997;QUARTER-FINALS;Verrier G.;Mason C.;3.0;1.0
+1997;QUARTER-FINALS;Warriner-Little A.;Butler L.;3.0;1.0
+1997;QUARTER-FINALS;Warriner-Little A.;Stoddart G.;3.0;1.0
+1996;FINAL;Taylor P.;Priestley D.;6.0;4.0
+1996;SEMI-FINALS;Harvey J.;Priestley D.;1.0;5.0
+1996;SEMI-FINALS;Taylor P.;Lowe J.;5.0;1.0
+1996;QUARTER-FINALS;Butler L.;Harvey J.;0.0;4.0
+1996;QUARTER-FINALS;Evison P.;Lowe J.;2.0;4.0
+1996;QUARTER-FINALS;Taylor P.;Deller K.;4.0;0.0
+1996;QUARTER-FINALS;Warriner-Little A.;Priestley D.;1.0;4.0
+1996;QUARTER-FINALS;Bristow E.;Gardner R.;3.0;2.0
+1996;QUARTER-FINALS;Brown S.;Stoddart G.;3.0;2.0
+1996;QUARTER-FINALS;Brown S.;Warriner-Little A.;0.0;3.0
+1996;QUARTER-FINALS;Burgess S.;Lazarenko C.;3.0;1.0
+1996;QUARTER-FINALS;Butler L.;Justice N.;3.0;2.0
+1996;QUARTER-FINALS;Downs S.;Deller K.;1.0;3.0
+1996;QUARTER-FINALS;Evison P.;Mawson G.;3.0;0.0
+1996;QUARTER-FINALS;Evison P.;Raw S.;3.0;2.0
+1996;QUARTER-FINALS;Harrington R.;Butler L.;2.0;3.0
+1996;QUARTER-FINALS;Harrington R.;Justice N.;3.0;1.0
+1996;QUARTER-FINALS;Harvey J.;Anderson B.;3.0;2.0
+1996;QUARTER-FINALS;Harvey J.;Verrier G.;3.0;2.0
+1996;QUARTER-FINALS;Lowe J.;Kirby T.;3.0;1.0
+1996;QUARTER-FINALS;Lowe J.;Smith D.;3.0;0.0
+1996;QUARTER-FINALS;Priestley D.;Bristow E.;3.0;0.0
+1996;QUARTER-FINALS;Priestley D.;Gardner R.;3.0;0.0
+1996;QUARTER-FINALS;Raw S.;Mawson G.;3.0;0.0
+1996;QUARTER-FINALS;Smith D.;Kirby T.;3.0;1.0
+1996;QUARTER-FINALS;Spiolek K.;Deller K.;2.0;3.0
+1996;QUARTER-FINALS;Spiolek K.;Downs S.;0.0;3.0
+1996;QUARTER-FINALS;Taylor P.;Burgess S.;3.0;0.0
+1996;QUARTER-FINALS;Taylor P.;Lazarenko C.;3.0;0.0
+1996;QUARTER-FINALS;Verrier G.;Anderson B.;1.0;3.0
+1996;QUARTER-FINALS;Warriner-Little A.;Stoddart G.;3.0;2.0
+1995;FINAL;Taylor P.;Harrington R.;6.0;2.0
+1995;3RD PLACE;Evison P.;Lowe J.;2.0;4.0
+1995;SEMI-FINALS;Evison P.;Harrington R.;1.0;5.0
+1995;SEMI-FINALS;Taylor P.;Lowe J.;5.0;4.0
+1995;QUARTER-FINALS;Anderson B.;Taylor P.;1.0;4.0
+1995;QUARTER-FINALS;Evison P.;Spiolek K.;4.0;1.0
+1995;QUARTER-FINALS;Harvey J.;Harrington R.;2.0;4.0
+1995;QUARTER-FINALS;Smith D.;Lowe J.;0.0;4.0
+1995;QUARTER-FINALS;Anderson B.;Gardner R.;3.0;1.0
+1995;QUARTER-FINALS;Evison P.;Lazarenko C.;3.0;0.0
+1995;QUARTER-FINALS;Harrington R.;Burgess S.;3.0;2.0
+1995;QUARTER-FINALS;Lowe J.;Wilson J.;3.0;0.0
+1995;QUARTER-FINALS;Smith D.;Kirby T.;3.0;1.0
+1995;QUARTER-FINALS;Spiolek K.;Butler L.;3.0;0.0
+1995;QUARTER-FINALS;Taylor P.;Downs S.;3.0;1.0
+1995;QUARTER-FINALS;Watkins J.;Harvey J.;2.0;3.0
+1995;QUARTER-FINALS;Brown S.;Watkins J.;3.0;0.0
+1995;QUARTER-FINALS;Burgess S.;Bristow E.;3.0;0.0
+1995;QUARTER-FINALS;Butler L.;Deller K.;3.0;1.0
+1995;QUARTER-FINALS;Gardner R.;Umberger J.;3.0;1.0
+1995;QUARTER-FINALS;Lazarenko C.;Stoddart G.;3.0;2.0
+1995;QUARTER-FINALS;Priestley D.;Wilson J.;3.0;2.0
+1995;QUARTER-FINALS;Verrier G.;Downs S.;0.0;3.0
+1995;QUARTER-FINALS;Warriner-Little A.;Kirby T.;3.0;2.0
+1995;QUARTER-FINALS;Anderson B.;Umberger J.;3.0;1.0
+1995;QUARTER-FINALS;Brown S.;Harvey J.;1.0;3.0
+1995;QUARTER-FINALS;Evison P.;Stoddart G.;3.0;2.0
+1995;QUARTER-FINALS;Harrington R.;Bristow E.;3.0;0.0
+1995;QUARTER-FINALS;Priestley D.;Lowe J.;0.0;3.0
+1995;QUARTER-FINALS;Spiolek K.;Deller K.;3.0;1.0
+1995;QUARTER-FINALS;Taylor P.;Verrier G.;3.0;2.0
+1995;QUARTER-FINALS;Warriner-Little A.;Smith D.;1.0;3.0
+1994;FINAL;Priestley D.;Taylor P.;6.0;1.0
+1994;3RD PLACE;Evison P.;Brown S.;1.0;5.0
+1994;SEMI-FINALS;Priestley D.;Evison P.;5.0;3.0
+1994;SEMI-FINALS;Taylor P.;Brown S.;5.0;0.0
+1994;QUARTER-FINALS;Anderson B.;Taylor P.;2.0;4.0
+1994;QUARTER-FINALS;Brown S.;Warriner-Little A.;4.0;2.0
+1994;QUARTER-FINALS;Harrington R.;Evison P.;0.0;4.0
+1994;QUARTER-FINALS;Priestley D.;Kirby T.;4.0;2.0
+1994;QUARTER-FINALS;Anderson B.;Kelly D.;3.0;0.0
+1994;QUARTER-FINALS;Evison P.;Burrows K.;3.0;0.0
+1994;QUARTER-FINALS;Harrington R.;Downs S.;3.0;2.0
+1994;QUARTER-FINALS;Lowe J.;Butler L.;2.0;3.0
+1994;QUARTER-FINALS;Priestley D.;Stoddart G.;3.0;0.0
+1994;QUARTER-FINALS;Spiolek K.;Brown S.;0.0;3.0
+1994;QUARTER-FINALS;Taylor P.;Watkins J.;3.0;0.0
+1994;QUARTER-FINALS;Warriner-Little A.;Lazarenko C.;3.0;1.0
+1994;QUARTER-FINALS;Bristow E.;Downs S.;3.0;2.0
+1994;QUARTER-FINALS;Brown S.;Deller K.;3.0;1.0
+1994;QUARTER-FINALS;Burrows K.;Umberger J.;0.0;3.0
+1994;QUARTER-FINALS;Butler L.;Kirby T.;2.0;3.0
+1994;QUARTER-FINALS;Gardner R.;Lazarenko C.;3.0;1.0
+1994;QUARTER-FINALS;Harvey J.;Watkins J.;2.0;3.0
+1994;QUARTER-FINALS;Kelly D.;Verrier G.;0.0;3.0
+1994;QUARTER-FINALS;Stoddart G.;Wilson J.;3.0;1.0
+1994;QUARTER-FINALS;Anderson B.;Verrier G.;3.0;0.0
+1994;QUARTER-FINALS;Evison P.;Umberger J.;3.0;0.0
+1994;QUARTER-FINALS;Harrington R.;Bristow E.;3.0;1.0
+1994;QUARTER-FINALS;Lowe J.;Kirby T.;3.0;2.0
+1994;QUARTER-FINALS;Priestley D.;Wilson J.;3.0;2.0
+1994;QUARTER-FINALS;Spiolek K.;Deller K.;3.0;1.0
+1994;QUARTER-FINALS;Taylor P.;Harvey J.;3.0;0.0
+1994;QUARTER-FINALS;Warriner-Little A.;Gardner R.;3.0;1.0
