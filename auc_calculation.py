@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from sklearn import metrics
 
 # Reading data from the csv file
-df=pd.read_csv('data/1994-2022.csv', sep=";")
+df=pd.read_csv('1994-2022.csv', sep=";")
 print(df.head())
 
 
@@ -17,7 +17,7 @@ G = nx.from_pandas_edgelist(df, source='player_1name', target='player_2name', cr
 pos= nx.spring_layout(G)
 d = dict(G.degree)
 node_size = [d[v] for v in G.nodes()]
-plt.figure(figsize=(20, 10))
+plt.figure(figsize=(10, 8))
 nx.draw(G,pos,node_color='#5F9EA0',edge_color='#ADD8E6', node_size=node_size, with_labels=False)
 plt.show()
 
@@ -33,9 +33,10 @@ edge_subset = random.sample(G.edges(), int(proportion_edges * G.number_of_edges(
 G_train = G.copy()
 G_train.remove_edges_from(edge_subset)
 
-# plt.figure(figsize=(1,8))
-# nx.draw(G_train)
-# plt.gca().collections[0].set_edgecolor("#000000") # set node border color to black
+plt.figure(figsize=(10,8))
+nx.draw(G_train,node_color='#5F9EA0',edge_color='#ADD8E6', node_size=node_size, with_labels=False)
+plt.gca().collections[0].set_edgecolor("#000000") # set node border color to black
+plt.show()
 
 edge_subset_size = len(list(edge_subset))
 print("Number of edges deleted : %d" % edge_subset_size)
