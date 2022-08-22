@@ -1,5 +1,11 @@
-# NetworkX-Link-Prediction-and-Network-Analysis
+# Network Analysis and Link Prediction with NetworkX
+
+## Requirements
+ - networkx == 2.8.5
+ - pandas
+ - sklearn
+ - matplotlib
+
 
 PDC World Championship data from 1994-2022 were used.
 
-![image](https://user-images.githubusercontent.com/45532972/170876237-b094623b-cd27-4a65-8280-ef200ae4f63f.png)
