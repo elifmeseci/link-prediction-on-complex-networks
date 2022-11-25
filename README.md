@@ -21,7 +21,22 @@ PDC World Championship data from 1994-2022 were used.
 
 ## Request Dataset
 
+Please send an e-mail to elif.meselif@gmail.com to receive a link to the PDC World Darts Championships dataset. Your e-mail must be sent from a legitimate institutional account and include the following text (copy and paste the following text into the required fields):
 
+    "Subject: Request to download PDC World Darts Championships dataset.
+
+    Name: [your first and last name]
+
+    Affiliation: [university where you work]
+
+    Department: [your department]
+
+    Purpose: [where will the data be used]
+
+    E-mail: [must be the e-mail at the above mentioned institution]
+
+    [your signature]"
+P.S. A link to the dataset file will be sent as soon as possible.
 
 ## Citation
 If you use this research paper, please cite:

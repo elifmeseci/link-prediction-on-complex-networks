@@ -47,7 +47,7 @@ print("Number of edges remaining : %d" % (m - edge_subset_size))
 pred_cn = list(nx.common_neighbor_centrality(G_train))
 score_cn, label_cn = zip(*[(s, (u, v) in edge_subset) for (u, v, s) in pred_cn])
 
-# Compute the ROC AUC Score
+# Compute the ROC AUC Score for Common Neighbor
 fpr_cn, tpr_cn, _ = metrics.roc_curve(label_cn, score_cn)
 auc_cn = metrics.roc_auc_score(label_cn, score_cn)
 print("Common Neighbor", auc_cn)
@@ -62,7 +62,7 @@ plt.show()
 pred_jaccard = list(nx.jaccard_coefficient(G_train))
 score_jaccard, label_jaccard = zip(*[(s, (u, v) in edge_subset) for (u, v, s) in pred_jaccard])
 
-# Compute the ROC AUC Score
+# Compute the ROC AUC Score for Jaccard Coefficient
 fpr_jaccard, tpr_jaccard, _ = metrics.roc_curve(label_jaccard, score_jaccard)
 auc_jaccard = metrics.roc_auc_score(label_jaccard, score_jaccard)
 print("Jaccard Coefficient : ", auc_jaccard)
@@ -77,7 +77,7 @@ plt.show()
 pred_adamic = list(nx.adamic_adar_index(G_train))
 score_adamic, label_adamic = zip(*[(s, (u, v) in edge_subset) for (u, v, s) in pred_adamic])
 
-# Compute the ROC AUC Score
+# Compute the ROC AUC Score for Adamic Adar
 fpr_adamic, tpr_adamic, _ = metrics.roc_curve(label_adamic, score_adamic)
 auc_adamic = metrics.roc_auc_score(label_adamic, score_adamic)
 print("Adamic-Adar : ", auc_adamic)
@@ -92,7 +92,7 @@ plt.show()
 pred_ra = list(nx.resource_allocation_index(G_train))
 score_ra, label_ra = zip(*[(s, (u, v) in edge_subset) for (u, v, s) in pred_ra])
 
-# Compute the ROC AUC Score
+# Compute the ROC AUC Score for Resource Allocation
 fpr_ra, tpr_ra, _ = metrics.roc_curve(label_ra, score_ra)
 auc_ra = metrics.roc_auc_score(label_ra, score_ra)
 print("Resource Allocation: ", auc_ra)
@@ -107,7 +107,7 @@ plt.show()
 pred_pa = list(nx.preferential_attachment(G_train))
 score_pa, label_pa = zip(*[(s, (u, v) in edge_subset) for (u, v, s) in pred_pa])
 
-# Compute the ROC AUC Score
+# Compute the ROC AUC Score for Preferential Attachment
 fpr_pa, tpr_pa, _ = metrics.roc_curve(label_pa, score_pa)
 auc_pa = metrics.roc_auc_score(label_pa, score_pa)
 print("Preferential Attachment : ", auc_pa)
@@ -119,10 +119,11 @@ plt.xlabel('FPR')
 plt.show()
 
 # Make prediction using Sorensen Coefficient
+# If you use original form of NetworkX library please make sure that you configurate the Sorensen function from link_prediction.py
 pred_sorensen = list(nx.sorensen_coefficient(G_train))
 score_sorensen, label_sorensen = zip(*[(s, (u, v) in edge_subset) for (u, v, s) in pred_sorensen])
 
-# Compute the ROC AUC Score
+# Compute the ROC AUC Score for Sorensen Coefficient
 fpr_sorensen, tpr_sorensen, _ = metrics.roc_curve(label_sorensen, score_sorensen)
 auc_sorensen = metrics.roc_auc_score(label_sorensen, score_sorensen)
 print("Sorensen Coefficient : ", auc_sorensen)
